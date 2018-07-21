@@ -2,10 +2,10 @@ package main;
 
 import java.net.*;
 import java.io.*;
-import java.util.LinkedList;
-import java.util.List;
+import java.util.Base64;
 
 import io.log;
+import network.protocol;
 
 class serverthread extends Thread {
     private Thread t;
@@ -14,7 +14,7 @@ class serverthread extends Thread {
     private BufferedWriter send;
     private String recvstr;
 
-    serverthread(Socket stocs) {
+    public serverthread(Socket stocs) {
         this.stocs = stocs;
         log.printf("[" + stocs.getRemoteSocketAddress().toString() + "]" + "Connected");
         try {
@@ -27,10 +27,18 @@ class serverthread extends Thread {
 
     public void run() {
         while (!stocs.isClosed()) {
-            recvstr = new String();
+            recvstr = new String("");
             try {
-                recvstr = recv.readLine();
+                while (recvstr.substring(recvstr.length() - 4) != "\r\n") {
+                    recvstr = recvstr + recv.readLine();
+                }
+                protocol decoder = new protocol(recvstr);
+                /*
 
+                Base64编码 解码得 “请求命令(前4位）+参数（base64）”
+                以\r\n结尾
+                 */
+                recvstr = new String(Base64.getDecoder().decode(recvstr), "utf-8");
                 log.printf("[" + stocs.getRemoteSocketAddress().toString() + "]" + recvstr);
                 if (recvstr != "exit") {
                     send.write(stocs.getRemoteSocketAddress().toString());
