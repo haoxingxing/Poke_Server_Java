@@ -4,11 +4,11 @@ public class classifier {
     private String retrunbackstr;
 
     public classifier(String command, String parameter) {
-        if (command.equals("test")) {
-            test process = new test(parameter);
-            retrunbackstr = process.returnback();
-        } else
-            retrunbackstr = "cmnf";
+        int mode = 0;
+        switch (mode) {
+            default:
+                retrunbackstr = "cmnf";
+        }
     }
 
     public String returnback() {
