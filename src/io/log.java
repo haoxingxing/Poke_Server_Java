@@ -1,18 +1,22 @@
 package io;
 
-import java.io.FileOutputStream;
+import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
-import java.io.OutputStreamWriter;
+import java.io.PrintWriter;
 
 public class log {
     public static void printf(String log) {
+        System.out.println(log);         
         try {
-            System.out.println(log);
-            FileOutputStream f = new FileOutputStream("logs");
-            OutputStreamWriter writer = new OutputStreamWriter(f, "UTF-8");
-            writer.write(log + "\r\n");
-            writer.close();
-            f.close();
+            File f = new File("logs");
+            FileWriter fw = new FileWriter(f, true);
+            PrintWriter pw = new PrintWriter(fw);
+            pw.println(log);
+            pw.flush();
+            fw.flush();
+            pw.close();
+            fw.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
