@@ -12,6 +12,7 @@ class serverthread extends Thread {
     private Socket sockettoclient;
     private BufferedReader recv;
     private BufferedWriter send;
+    private boolean error = false;
 
     serverthread(Socket stocs) throws IOException {
         this.sockettoclient = stocs;
@@ -22,25 +23,47 @@ class serverthread extends Thread {
 
     public void run() {
         while (!sockettoclient.isClosed()) {
+            protocol decoder;
             StringBuilder recvstr = new StringBuilder();
             try {
                 recvstr.append(recv.readLine());
-                while (!recvstr.toString().substring(recvstr.length() - 1).equals("}")) {
+                while (!recvstr.toString().substring(recvstr.length() - 1).equals("\u0004")) {
                     recvstr.append(recv.readLine());
                 }
-                protocol decoder = new protocol(recvstr.toString());
-                log.printf("[" + sockettoclient.getRemoteSocketAddress().toString() + "]" + recvstr);
-                if (!recvstr.toString().equals("exit")) {
-                    classifier process = new classifier(decoder.getCommand(), decoder.getParameter());
-                    send.write(process.returnback());
-                    send.write("\r\n");
-                    send.flush();
+                try {
+                    decoder = new protocol(recvstr.toString());
+                } catch (IllegalArgumentException e) {
+                    log.printf("Error protocol");
+                    decoder = new protocol("ZXJyZg==");
+                    error = true;
+                }
+                if (!error) {
+                    if (!decoder.getCommand().equals("exit")) {
+                        log.printf("[" + sockettoclient.getRemoteSocketAddress().toString() + "]" + recvstr + "C:" + decoder.getCommand() + "P:" + decoder.getParameter());
+                        classifier process = new classifier(decoder.getCommand(), decoder.getParameter());
+                        send.write(process.returnback());
+                        send.write("\u0004");
+                        send.flush();
+                    } else {
+                        sockettoclient.close();
+                    }
                 } else {
-                    sockettoclient.close();
+                    send.write("\u0015");
+                    send.flush();
+                }
+            } catch (StringIndexOutOfBoundsException e) {
+                try {
+                    send.write("\u0015");
+                    send.flush();
+                } catch (IOException el) {
+                    log.printf("[" + sockettoclient.getRemoteSocketAddress().toString() + "]" + " Error:\n" + el.toString());
+                    break;
                 }
             } catch (IOException e) {
                 log.printf("[" + sockettoclient.getRemoteSocketAddress().toString() + "]" + " Error:\n" + e.toString());
+                break;
             }
+            error = false;
         }
         log.printf(sockettoclient.getRemoteSocketAddress().toString() + " exited");
     }

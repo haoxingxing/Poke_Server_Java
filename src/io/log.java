@@ -7,7 +7,7 @@ import java.io.PrintWriter;
 
 public class log {
     public static void printf(String log) {
-        System.out.println(log);         
+        System.out.println(log);
         try {
             File f = new File("logs");
             FileWriter fw = new FileWriter(f, true);

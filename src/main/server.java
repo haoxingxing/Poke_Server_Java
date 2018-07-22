@@ -1,20 +1,22 @@
 package main;
 
-import java.net.*;
-import java.io.*;
-
 import io.log;
 
-public class server {
+import java.io.IOException;
+import java.net.ServerSocket;
+import java.net.Socket;
+import java.net.SocketTimeoutException;
+
+class server {
     private ServerSocket serverSocket;
 
-    public server(int port) throws IOException {
+    server(int port) throws IOException {
         serverSocket = new ServerSocket(port);
         log.printf("ServerPort:" + port);
         serverSocket.setSoTimeout(6000000);
     }
 
-    public void run() {
+    void run() {
         while (true) {
             try {
                 Socket stocs = serverSocket.accept();
@@ -22,8 +24,7 @@ public class server {
                     serverthread s = new serverthread(stocs);
                     s.start();
                 }
-            } catch (SocketTimeoutException s) {
-
+            } catch (SocketTimeoutException ignored) {
             } catch (IOException e) {
                 log.printf("Error:\n" + e.toString());
                 break;
