@@ -1,63 +1,53 @@
 package main;
 
-import java.net.*;
-import java.io.*;
-import java.util.Base64;
-
 import io.log;
 import network.protocol;
+import process.classifier;
+
+import java.io.*;
+import java.net.Socket;
 
 class serverthread extends Thread {
     private Thread t;
-    private Socket stocs;
+    private Socket sockettoclient;
     private BufferedReader recv;
     private BufferedWriter send;
-    private String recvstr;
 
-    public serverthread(Socket stocs) {
-        this.stocs = stocs;
-        log.printf("[" + stocs.getRemoteSocketAddress().toString() + "]" + "Connected");
-        try {
-            recv = new BufferedReader(new InputStreamReader(stocs.getInputStream()));
-            send = new BufferedWriter(new OutputStreamWriter(stocs.getOutputStream()));
-        } catch (IOException e) {
-            log.printf(e.toString());
-        }
+    serverthread(Socket stocs) throws IOException {
+        this.sockettoclient = stocs;
+        log.printf("[" + sockettoclient.getRemoteSocketAddress().toString() + "]" + "Connected");
+        recv = new BufferedReader(new InputStreamReader(sockettoclient.getInputStream()));
+        send = new BufferedWriter(new OutputStreamWriter(sockettoclient.getOutputStream()));
     }
 
     public void run() {
-        while (!stocs.isClosed()) {
-            recvstr = new String("");
+        while (!sockettoclient.isClosed()) {
+            StringBuilder recvstr = new StringBuilder();
             try {
-                while (recvstr.substring(recvstr.length() - 4) != "\r\n") {
-                    recvstr = recvstr + recv.readLine();
+                recvstr.append(recv.readLine());
+                while (!recvstr.toString().substring(recvstr.length() - 1).equals("}")) {
+                    recvstr.append(recv.readLine());
                 }
-                protocol decoder = new protocol(recvstr);
-                /*
-
-                Base64编码 解码得 “请求命令(前4位）+参数（base64）”
-                以\r\n结尾
-                 */
-                recvstr = new String(Base64.getDecoder().decode(recvstr), "utf-8");
-                log.printf("[" + stocs.getRemoteSocketAddress().toString() + "]" + recvstr);
-                if (recvstr != "exit") {
-                    send.write(stocs.getRemoteSocketAddress().toString());
+                protocol decoder = new protocol(recvstr.toString());
+                log.printf("[" + sockettoclient.getRemoteSocketAddress().toString() + "]" + recvstr);
+                if (!recvstr.toString().equals("exit")) {
+                    classifier process = new classifier(decoder.getCommand(), decoder.getParameter());
+                    send.write(process.returnback());
                     send.write("\r\n");
                     send.flush();
                 } else {
-                    stocs.close();
+                    sockettoclient.close();
                 }
             } catch (IOException e) {
-                log.printf("[" + stocs.getRemoteSocketAddress().toString() + "]" + " Error:\n" + e.toString());
-                break;
+                log.printf("[" + sockettoclient.getRemoteSocketAddress().toString() + "]" + " Error:\n" + e.toString());
             }
         }
-        log.printf(stocs.getRemoteSocketAddress().toString() + " exited");
+        log.printf(sockettoclient.getRemoteSocketAddress().toString() + " exited");
     }
 
     public void start() {
         if (t == null) {
-            t = new Thread(this, stocs.toString());
+            t = new Thread(this, sockettoclient.toString());
             t.start();
         }
     }

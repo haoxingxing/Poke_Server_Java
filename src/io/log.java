@@ -1,6 +1,8 @@
 package io;
 
-import java.io.*;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.OutputStreamWriter;
 
 public class log {
     public static void printf(String log) {

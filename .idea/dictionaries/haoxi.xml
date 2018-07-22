@@ -1,3 +1,14 @@
 <component name="ProjectDictionaryState">
-  <dictionary name="haoxi" />
+  <dictionary name="haoxi">
+    <words>
+      <w>cmnf</w>
+      <w>recv</w>
+      <w>recvstr</w>
+      <w>retrunbackstr</w>
+      <w>returnback</w>
+      <w>serverthread</w>
+      <w>sockettoclient</w>
+      <w>stocs</w>
+    </words>
+  </dictionary>
 </component>
