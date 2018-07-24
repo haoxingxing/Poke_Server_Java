@@ -6,6 +6,7 @@ import process.classifier;
 
 import java.io.*;
 import java.net.Socket;
+import java.util.Base64;
 
 class serverthread extends Thread {
     private Thread t;
@@ -39,21 +40,21 @@ class serverthread extends Thread {
                 }
                 if (!error) {
                     if (!decoder.getCommand().equals("exit")) {
-                        log.printf("[" + sockettoclient.getRemoteSocketAddress().toString() + "]" + recvstr + "C:" + decoder.getCommand() + "P:" + decoder.getParameter());
-                        classifier process = new classifier(decoder.getCommand(), decoder.getParameter());
-                        send.write(process.returnback());
+                        log.printf("[" + sockettoclient.getRemoteSocketAddress().toString() + "]" + recvstr + "C:" + decoder.getCommand() + "P:" + decoder.getAllParameter());
+                        classifier process = new classifier(decoder);
+                        send.write(Base64.getEncoder().encodeToString(process.returnback().getBytes("UTF-8")));
                         send.write("\u0004");
                         send.flush();
                     } else {
                         sockettoclient.close();
                     }
                 } else {
-                    send.write("\u0015");
+                    send.write("\u0004");
                     send.flush();
                 }
             } catch (StringIndexOutOfBoundsException e) {
                 try {
-                    send.write("\u0015");
+                    send.write("\u0004");
                     send.flush();
                 } catch (IOException el) {
                     log.printf("[" + sockettoclient.getRemoteSocketAddress().toString() + "]" + " Error:\n" + el.toString());
