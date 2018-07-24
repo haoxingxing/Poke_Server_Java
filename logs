@@ -1,0 +1,62 @@
+Server Starting...
+ServerPort:8864
+[/0:0:0:0:0:0:0:1:52973]Connected
+Error protocol
+[/0:0:0:0:0:0:0:1:52973]dWxvZx8xHzI=C:ulogP:12
+[/0:0:0:0:0:0:0:1:55842]Connected
+Server Starting...
+ServerPort:8864
+[/0:0:0:0:0:0:0:1:56275]Connected
+[/0:0:0:0:0:0:0:1:56275]dWxvZzEfMQ==C:ulogP:11
+[/0:0:0:0:0:0:0:1:56275] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:56275 exited
+Server Starting...
+ServerPort:8864
+[/0:0:0:0:0:0:0:1:56716]Connected
+[/0:0:0:0:0:0:0:1:56716]dWxvZzEfMQ==C:ulogP:11
+[/0:0:0:0:0:0:0:1:56716] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:56716 exited
+[/0:0:0:0:0:0:0:1:56754]Connected
+[/0:0:0:0:0:0:0:1:56754]dWxvZzEfMQ==C:ulogP:11
+[/0:0:0:0:0:0:0:1:56845]Connected
+[/0:0:0:0:0:0:0:1:56754] Error:
+java.net.SocketException: Connection reset by peer: socket write error
+[/0:0:0:0:0:0:0:1:56845]dWxvZzEfMQ==C:ulogP:11
+Server Starting...
+ServerPort:8864
+[/0:0:0:0:0:0:0:1:56929]Connected
+[/0:0:0:0:0:0:0:1:56929]dWxvZ3VzZXJuYW1lH3Bhc3N3b3JkC:ulogP:usernamepassword
+Server Starting...
+[/0:0:0:0:0:0:0:1:56929] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:56929 exited
+Server Starting...
+ServerPort:8864
+[/0:0:0:0:0:0:0:1:57143]Connected
+[/0:0:0:0:0:0:0:1:57143]dWxvZ3VzZXJuYW1lH3Bhc3N3b3JkC:ulogP:usernamepassword
+[/0:0:0:0:0:0:0:1:57143] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:57143 exited
+[/0:0:0:0:0:0:0:1:57183]Connected
+[/0:0:0:0:0:0:0:1:57183]dXJlZ3VzZXJuYW1lH3Bhc3N3b3JkC:uregP:usernamepassword
+[/0:0:0:0:0:0:0:1:57183]dWxvZ3VzZXJuYW1lH3Bhc3N3b3JkC:ulogP:usernamepassword
+Server Starting...
+Server Starting...
+ServerPort:8864
+[/0:0:0:0:0:0:0:1:58711]Connected
+[/0:0:0:0:0:0:0:1:58711]dXJlZzEfMg==C:uregP:12
+[/0:0:0:0:0:0:0:1:58711]dWxvZzEfcGFzc3dvcmQ=C:ulogP:1password
+[/0:0:0:0:0:0:0:1:58711] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:58711 exited
+[/0:0:0:0:0:0:0:1:58730]Connected
+[/0:0:0:0:0:0:0:1:58730]dXJlZzEfMg==C:uregP:12
+[/0:0:0:0:0:0:0:1:58730]dWxvZzEfMg==C:ulogP:12
+[/0:0:0:0:0:0:0:1:58730] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:58730 exited
+[/0:0:0:0:0:0:0:1:58737]Connected
+[/0:0:0:0:0:0:0:1:58737]dXJlZzEfMg==C:uregP:12
+[/0:0:0:0:0:0:0:1:58737]dWxvZzEfMg==C:ulogP:12

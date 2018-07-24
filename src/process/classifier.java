@@ -15,8 +15,10 @@ public class classifier {
                         returnbackstr = "succ";
                     else
                         returnbackstr = "fall";
+                    break;
                 } else {
                     returnbackstr = "erro";
+                    break;
                 }
             case 2:
                 if (decoder.PararmeterSize() == user.regpar) {
@@ -24,11 +26,14 @@ public class classifier {
                         returnbackstr = "succ";
                     else
                         returnbackstr = "fall";
+                    break;
                 } else {
                     returnbackstr = "erro";
+                    break;
                 }
             default:
                 returnbackstr = "E";
+                break;
         }
     }
     public String returnback() {

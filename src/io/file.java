@@ -5,7 +5,6 @@ import java.io.*;
 public class file {
     static public void write(String file, String data) throws IOException {
         File f = new File("data/" + file);
-        f.mkdirs();
         FileOutputStream fop = new FileOutputStream(f);
         OutputStreamWriter writer = new OutputStreamWriter(fop, "UTF-8");
         writer.append(data);
