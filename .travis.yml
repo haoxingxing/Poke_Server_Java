@@ -16,6 +16,9 @@ deploy:
   skip_cleanup: true
   on:
     tags: true
+    branches:    # ← new!
+    only:      # ← new!
+      - master # ← new!
 env:
   global:
     secure: ccc1b2a40b67d649e60f67b6206fa5f286896397
