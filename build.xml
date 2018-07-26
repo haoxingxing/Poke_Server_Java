@@ -15,15 +15,6 @@
             <compilerarg line="-encoding UTF-8" />
         </javac>
     </target>
-    <!-- 3. 打包jar文件 -->
-    <target name="jar" depends="compile">
-        <!-- jar文件的输出路径 -->
-        <jar destfile="${output.dir}/${jarname}" basedir="${classes.dir}">
-            <manifest>
-                <attribute name="Class-Path" value="main.launch" />
-            </manifest>
-        </jar>
-    </target>
     <target name="test" depends="compile">
         <!-- jar文件的输出路径 -->
         <jar destfile="${output.dir}/${jarname}" basedir="${classes.dir}">
