@@ -55,7 +55,6 @@ class serverthread extends Thread {
                 }
             } catch (StringIndexOutOfBoundsException e) {
                 try {
-
                     send.write("\u0004");
                     send.flush();
                 } catch (IOException el) {
