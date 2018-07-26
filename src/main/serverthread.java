@@ -43,6 +43,7 @@ class serverthread extends Thread {
                         log.printf("[" + sockettoclient.getRemoteSocketAddress().toString() + "]" + recvstr + "C:" + decoder.getCommand() + "P:" + decoder.getAllParameter());
                         classifier process = new classifier(decoder);
                         send.write(Base64.getEncoder().encodeToString(process.returnback().getBytes("UTF-8")));
+                        log.printf("To[" + sockettoclient.getRemoteSocketAddress().toString() + "]"+process.returnback());
                         send.write("\u0004");
                         send.flush();
                     } else {
@@ -54,6 +55,7 @@ class serverthread extends Thread {
                 }
             } catch (StringIndexOutOfBoundsException e) {
                 try {
+
                     send.write("\u0004");
                     send.flush();
                 } catch (IOException el) {
