@@ -1,4 +1,9 @@
 language: java
-jdk: oraclejdk8
-
-
+deploy:
+  provider: releases
+  api_key:
+    secure: uCP89_4uCQ1DEg6zX6YuHA
+  file: out/Poke_Server.jar
+  skip_cleanup: true
+  on:
+    tags: true
