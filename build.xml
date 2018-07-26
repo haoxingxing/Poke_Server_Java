@@ -1,5 +1,5 @@
 
-<project default="jar" name="Acid">  
+<project default="jar" name="Poke_Server">  
    <!-- 工程目录结构  
    project  
        |-bin  
