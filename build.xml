@@ -19,7 +19,7 @@
         <!-- jar文件的输出路径 -->
         <jar destfile="${output.dir}/${jarname}" basedir="${classes.dir}">
             <manifest>
-                <attribute name="Class-Path" value="main.launch" />
+                <attribute name="Main-Class" value="main.launch"/>
             </manifest>
         </jar>
     </target>
