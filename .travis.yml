@@ -15,7 +15,7 @@ deploy:
   file: "out/Poke_Server.jar"
   skip_cleanup: true
   on:
-    tags: true
+    tags: false
     branches:    # ← new!
     only:      # ← new!
       - master # ← new!
