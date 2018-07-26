@@ -15,7 +15,7 @@
             <compilerarg line="-encoding UTF-8" />
         </javac>
     </target>
-    <target name="test" depends="compile">
+    <target name="jar" depends="compile">
         <!-- jar文件的输出路径 -->
         <jar destfile="${output.dir}/${jarname}" basedir="${classes.dir}">
             <manifest>
