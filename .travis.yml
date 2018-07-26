@@ -14,9 +14,6 @@ deploy:
     branches:    # ← new!
     only:      # ← new!
       - master # ← new!
-after_deploy:
-  scrpit:
-  - java -jar out/Poke_Server.jar
 env:
   global:
     secure: ccc1b2a40b67d649e60f67b6206fa5f286896397
