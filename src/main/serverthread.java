@@ -6,6 +6,7 @@ import process.classifier;
 
 import java.io.*;
 import java.net.Socket;
+import java.nio.charset.StandardCharsets;
 import java.util.Base64;
 
 class serverthread extends Thread {
@@ -40,10 +41,10 @@ class serverthread extends Thread {
                 }
                 if (!error) {
                     if (!decoder.getCommand().equals("exit")) {
-                        log.printf("[" + sockettoclient.getRemoteSocketAddress().toString() + "]" + recvstr + "C:" + decoder.getCommand() + "P:" + decoder.getAllParameter());
+                        log.printf("[" + sockettoclient.getRemoteSocketAddress().toString() + "]" + recvstr + " [" + decoder.getCommand() + "](" + decoder.getAllParameter() + ")");
                         classifier process = new classifier(decoder);
-                        send.write(Base64.getEncoder().encodeToString(process.returnback().getBytes("UTF-8")));
-                        log.printf("To[" + sockettoclient.getRemoteSocketAddress().toString() + "]"+process.returnback());
+                        send.write(Base64.getEncoder().encodeToString(process.returnback().getBytes(StandardCharsets.UTF_8)));
+                        log.printf("To[" + sockettoclient.getRemoteSocketAddress().toString() + "]" + " [" + process.returnback() + "]");
                         send.write("\u0004");
                         send.flush();
                     } else {
