@@ -511,3 +511,386 @@ To[/0:0:0:0:0:0:0:1:53488] [succ]
 [/0:0:0:0:0:0:0:1:53488] Error:
 java.net.SocketException: Connection reset
 /0:0:0:0:0:0:0:1:53488 exited
+[/0:0:0:0:0:0:0:1:54810]Connected
+[/0:0:0:0:0:0:0:1:54810] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:54810 exited
+[/0:0:0:0:0:0:0:1:54909]Connected
+[/0:0:0:0:0:0:0:1:54909]dWxvZzEfMQ== [ulog](11)
+To[/0:0:0:0:0:0:0:1:54909] [fall]
+[/0:0:0:0:0:0:0:1:54909]dWxvZzEfMg== [ulog](12)
+To[/0:0:0:0:0:0:0:1:54909] [succ]
+[/0:0:0:0:0:0:0:1:54909] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:54909 exited
+Server Starting...
+Server Starting...
+ServerPort:8864
+[/0:0:0:0:0:0:0:1:55865]Connected
+[/0:0:0:0:0:0:0:1:55865] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:55865 exited
+[/0:0:0:0:0:0:0:1:55903]Connected
+[/0:0:0:0:0:0:0:1:55903] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:55903 exited
+[/0:0:0:0:0:0:0:1:56036]Connected
+[/0:0:0:0:0:0:0:1:56036] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:56036 exited
+[/0:0:0:0:0:0:0:1:56109]Connected
+Server Starting...
+ServerPort:8864
+[/0:0:0:0:0:0:0:1:56137]Connected
+Server Starting...
+ServerPort:8864
+[/0:0:0:0:0:0:0:1:56270]Connected
+[/0:0:0:0:0:0:0:1:56270] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:56270 exited
+[/0:0:0:0:0:0:0:1:56529]Connected
+[/0:0:0:0:0:0:0:1:56529] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:56529 exited
+[/0:0:0:0:0:0:0:1:56578]Connected
+[/0:0:0:0:0:0:0:1:56578] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:56578 exited
+[/0:0:0:0:0:0:0:1:56593]Connected
+[/0:0:0:0:0:0:0:1:56593] Error:
+java.net.SocketException: Unrecognized Windows Sockets error: 0: recv failed
+[/0:0:0:0:0:0:0:1:56631]Connected
+/0:0:0:0:0:0:0:1:56593 exited
+[/0:0:0:0:0:0:0:1:56631] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:56631 exited
+Server Starting...
+ServerPort:8864
+[/0:0:0:0:0:0:0:1:56731]Connected
+Server Starting...
+ServerPort:8864
+[/0:0:0:0:0:0:0:1:56763]Connected
+Server Starting...
+ServerPort:8864
+[/0:0:0:0:0:0:0:1:56835]Connected
+[/0:0:0:0:0:0:0:1:56835] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:56835 exited
+[/0:0:0:0:0:0:0:1:56839]Connected
+Server Starting...
+ServerPort:8864
+[/0:0:0:0:0:0:0:1:56882]Connected
+[/0:0:0:0:0:0:0:1:56882] Error:
+java.net.SocketException: Connection reset by peer: socket write error
+/0:0:0:0:0:0:0:1:56882 exited
+Server Starting...
+ServerPort:8864
+[/0:0:0:0:0:0:0:1:56905]Connected
+[/0:0:0:0:0:0:0:1:56920]Connected
+[/0:0:0:0:0:0:0:1:56905] Error:
+java.net.SocketException: Unrecognized Windows Sockets error: 0: recv failed
+/0:0:0:0:0:0:0:1:56905 exited
+Server Starting...
+ServerPort:8864
+[/0:0:0:0:0:0:0:1:56952]Connected
+[/0:0:0:0:0:0:0:1:56952] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:56952 exited
+[/0:0:0:0:0:0:0:1:56958]Connected
+Server Starting...
+ServerPort:8864
+[/0:0:0:0:0:0:0:1:56984]Connected
+Server Starting...
+ServerPort:8864
+[/0:0:0:0:0:0:0:1:57028]Connected
+[/0:0:0:0:0:0:0:1:57028] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:57028 exited
+[/0:0:0:0:0:0:0:1:57035]Connected
+Error protocol
+Error protocol
+[/0:0:0:0:0:0:0:1:57035] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:57035 exited
+Server Starting...
+ServerPort:8864
+[/0:0:0:0:0:0:0:1:57130]Connected
+Error protocol
+Error protocol
+Error protocol
+Error protocol
+Error protocol
+Error protocol
+Error protocol
+Error protocol
+Error protocol
+Error protocol
+Error protocol
+Error protocol
+[/0:0:0:0:0:0:0:1:57130] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:57130 exited
+Server Starting...
+Server Starting...
+ServerPort:8864
+[/0:0:0:0:0:0:0:1:57163]Connected
+Error protocol
+Error protocol
+Error protocol
+Error protocol
+[/0:0:0:0:0:0:0:1:57163] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:57163 exited
+[/0:0:0:0:0:0:0:1:57167]Connected
+Error protocol
+Error protocol
+Server Starting...
+ServerPort:8864
+[/0:0:0:0:0:0:0:1:57206]Connected
+[/0:0:0:0:0:0:0:1:57206]dWxvZzEfMg==de8e4b7d9e03ccc9ebbcfca121c05d9c [ulog](12)
+To[/0:0:0:0:0:0:0:1:57206] [succ]
+[/0:0:0:0:0:0:0:1:57206] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:57206 exited
+[/0:0:0:0:0:0:0:1:57348]Connected
+[/0:0:0:0:0:0:0:1:57348]dWxvZzEfMg==de8e4b7d9e03ccc9ebbcfca121c05d9c [ulog](12)
+To[/0:0:0:0:0:0:0:1:57348] [succ]
+[/0:0:0:0:0:0:0:1:57348] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:57348 exited
+[/0:0:0:0:0:0:0:1:57378]Connected
+[/0:0:0:0:0:0:0:1:57378]dWxvZzEfMg==de8e4b7d9e03ccc9ebbcfca121c05d9c [ulog](12)
+To[/0:0:0:0:0:0:0:1:57378] [succ]
+[/0:0:0:0:0:0:0:1:57378] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:57378 exited
+[/0:0:0:0:0:0:0:1:57456]Connected
+[/0:0:0:0:0:0:0:1:57456]dWxvZzEfMg==de8e4b7d9e03ccc9ebbcfca121c05d9c [ulog](12)
+To[/0:0:0:0:0:0:0:1:57456] [succ]
+[/0:0:0:0:0:0:0:1:57456] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:57456 exited
+[/0:0:0:0:0:0:0:1:57504]Connected
+[/0:0:0:0:0:0:0:1:57504]dWxvZzEfMg==de8e4b7d9e03ccc9ebbcfca121c05d9c [ulog](12)
+To[/0:0:0:0:0:0:0:1:57504] [succ]
+[/0:0:0:0:0:0:0:1:57504] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:57504 exited
+[/0:0:0:0:0:0:0:1:57559]Connected
+[/0:0:0:0:0:0:0:1:57559]dWxvZzEyMx8yMzEyMzIxf9eac7f07e5cd363df4d5eaa73674535 [ulog](1232312321)
+To[/0:0:0:0:0:0:0:1:57559] [fall]
+[/0:0:0:0:0:0:0:1:57559]dWxvZzEyMzIzMTI0MzQxMjMfMTIzMTQyMTMxMjQ=08a9459c2fd54cbb7390c77f5c0266d2 [ulog](123231243412312314213124)
+To[/0:0:0:0:0:0:0:1:57559] [fall]
+[/0:0:0:0:0:0:0:1:57559]dWxvZzEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMTEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMR8xMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzExMzIxMzEyMzEyMzEyMzEyMzEyMzEyMzEyMzE=3ab50ce0a605fb8586d22862d0154be3 [ulog](132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231132131231231231231231231231)
+To[/0:0:0:0:0:0:0:1:57559] [fall]
+[/0:0:0:0:0:0:0:1:57559]dWxvZzEzMjEzMTIzMTIzMTIzMTIzMTIzMTIzMTIzMWRhd2R3YWR3cGFja2FnZSBtYWluOwoKaW1wb3J0IGlvLmxvZzsKaW1wb3J0IG5ldHdvcmsucHJvdG9jb2w7CmltcG9ydCBwcm9jZXNzLmNsYXNzaWZpZXI7CmltcG9ydCBpby5tZDU7CgppbXBvcnQgamF2YS5pby4qOwppbXBvcnQgamF2YS5uZXQuU29ja2V0OwppbXBvcnQgamF2YS5uaW8uY2hhcnNldC5TdGFuZGFyZENoYXJzZXRzOwppbXBvcnQgamF2YS51dGlsLkJhc2U2NDsKaW1wb3J0IGphdmEudXRpbC5PYmplY3RzOwoKY2xhc3Mgc2VydmVydGhyZWFkIGV4dGVuZHMgVGhyZWFkIHsKICAgIHByaXZhdGUgVGhyZWFkIHQ7CiAgICBwcml2YXRlIFNvY2tldCBzb2NrZXR0b2NsaWVudDsKICAgIHByaXZhdGUgQnVmZmVyZWRSZWFkZXIgcmVjdjsKICAgIHByaXZhdGUgQnVmZmVyZWRXcml0ZXIgc2VuZDsKICAgIHByaXZhdGUgYm9vbGVhbiBlcnJvciA9IGZhbHNlOwoKICAgIHNlcnZlcnRocmVhZChTb2NrZXQgc3RvY3MpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgdGhpcy5zb2NrZXR0b2NsaWVudCA9IHN0b2NzOwogICAgICAgIGxvZy5wcmludGYoIlsiICsgc29ja2V0dG9jbGllbnQuZ2V0UmVtb3RlU29ja2V0QWRkcmVzcygpLnRvU3RyaW5nKCkgKyAiXSIgKyAiQ29ubmVjdGVkIik7CiAgICAgICAgcmVjdiA9IG5ldyBCdWZmZXJlZFJlYWRlcihuZXcgSW5wdXRTdHJlYW1SZWFkZXIoc29ja2V0dG9jbGllbnQuZ2V0SW5wdXRTdHJlYW0oKSkpOwogICAgICAgIHNlbmQgPSBuZXcgQnVmZmVyZWRXcml0ZXIobmV3IE91dHB1dFN0cmVhbVdyaXRlcihzb2NrZXR0b2NsaWVudC5nZXRPdXRwdXRTdHJlYW0oKSkpOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICB3aGlsZSAoIXNvY2tldHRvY2xpZW50LmlzQ2xvc2VkKCkpIHsKICAgICAgICAgICAgcHJvdG9jb2wgZGVjb2RlcjsKICAgICAgICAgICAgU3RyaW5nQnVpbGRlciByZWN2c3RyID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIHJlY3ZzdHIuYXBwZW5kKHJlY3YucmVhZExpbmUoKSk7CiAgICAgICAgICAgICAgICB3aGlsZSAoIXJlY3ZzdHIudG9TdHJpbmcoKS5zdWJzdHJpbmcocmVjdnN0ci50b1N0cmluZygpLmxlbmd0aCgpIC0gMSkuZXF1YWxzKCJcdTAwMDUiKSkgewogICAgICAgICAgICAgICAgICAgIHJlY3ZzdHIuYXBwZW5kKHJlY3YucmVhZExpbmUoKSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICByZWN2c3RyLmRlbGV0ZShyZWN2c3RyLmxlbmd0aCgpIC0gMSxyZWN2c3RyLmxlbmd0aCgpKTsKICAgICAgICAgICAgICAgIGlmICghcmVjdnN0ci50b1N0cmluZygpLnNwbGl0KCJcdTAwMDQiKVsxXS5lcXVhbHMoT2JqZWN0cy5yZXF1aXJlTm9uTnVsbChtZDUubWQ1X2VuY29kZShyZWN2c3RyLnRvU3RyaW5nKCkuc3BsaXQoIlx1MDAwNCIpWzBdKSkudG9Mb3dlckNhc2UoKSkpIGVycm9yPXRydWU7CiAgICAgICAgICAgICAgICBTdHJpbmcgcj1yZWN2c3RyLnRvU3RyaW5nKCkuc3BsaXQoIlx1MDAwNCIpWzBdOwogICAgICAgICAgICAgICAgaWYgKCFlcnJvcikgewogICAgICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGRlY29kZXIgPSBuZXcgcHJvdG9jb2wocik7CiAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgbG9nLnByaW50ZigiRXJyb3IgcHJvdG9jb2wiKTsKICAgICAgICAgICAgICAgICAgICAgICAgZGVjb2RlciA9IG5ldyBwcm90b2NvbCgiWlhKeVpnPT0iKTsKICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3IgPSB0cnVlOwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgaWYgKCFlcnJvcikgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWRlY29kZXIuZ2V0Q29tbWFuZCgpLmVxdWFscygiZXhpdCIpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2cucHJpbnRmKCJbIiArIHNvY2tldHRvY2xpZW50LmdldFJlbW90ZVNvY2tldEFkZHJlc3MoKS50b1N0cmluZygpICsgIl0iICsgcmVjdnN0ciArICIgWyIgKyBkZWNvZGVyLmdldENvbW1hbmQoKSArICJdKCIgKyBkZWNvZGVyLmdldEFsbFBhcmFtZXRlcigpICsgIikiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzaWZpZXIgcHJvY2VzcyA9IG5ldyBjbGFzc2lmaWVyKGRlY29kZXIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VuZC53cml0ZShCYXNlNjQuZ2V0RW5jb2RlcigpLmVuY29kZVRvU3RyaW5nKHByb2Nlc3MucmV0dXJuYmFjaygpLmdldEJ5dGVzKFN0YW5kYXJkQ2hhcnNldHMuVVRGXzgpKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2cucHJpbnRmKCJUb1siICsgc29ja2V0dG9jbGllbnQuZ2V0UmVtb3RlU29ja2V0QWRkcmVzcygpLnRvU3RyaW5nKCkgKyAiXSIgKyAiIFsiICsgcHJvY2Vzcy5yZXR1cm5iYWNrKCkgKyAiXSIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VuZC53cml0ZSgiXHUwMDA0Iik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZW5kLmZsdXNoKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb2NrZXR0b2NsaWVudC5jbG9zZSgpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgc2VuZC53cml0ZSgiXHUwMDA0Iik7CiAgICAgICAgICAgICAgICAgICAgICAgIHNlbmQuZmx1c2goKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgc2VuZC53cml0ZSgiXHUwMDA2Iik7CiAgICAgICAgICAgICAgICAgICAgc2VuZC5mbHVzaCgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9IGNhdGNoIChTdHJpbmdJbmRleE91dE9mQm91bmRzRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgc2VuZC53cml0ZSgiXHUwMDA0Iik7CiAgICAgICAgICAgICAgICAgICAgc2VuZC5mbHVzaCgpOwogICAgICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZWwpIHsKICAgICAgICAgICAgICAgICAgICBsb2cucHJpbnRmKCJbIiArIHNvY2tldHRvY2xpZW50LmdldFJlbW90ZVNvY2tldEFkZHJlc3MoKS50b1N0cmluZygpICsgIl0iICsgIiBFcnJvcjpcbiIgKyBlbC50b1N0cmluZygpKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgbG9nLnByaW50ZigiWyIgKyBzb2NrZXR0b2NsaWVudC5nZXRSZW1vdGVTb2NrZXRBZGRyZXNzKCkudG9TdHJpbmcoKSArICJdIiArICIgRXJyb3I6XG4iICsgZS50b1N0cmluZygpKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGVycm9yID0gZmFsc2U7CiAgICAgICAgfQogICAgICAgIGxvZy5wcmludGYoc29ja2V0dG9jbGllbnQuZ2V0UmVtb3RlU29ja2V0QWRkcmVzcygpLnRvU3RyaW5nKCkgKyAiIGV4aXRlZCIpOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHN0YXJ0KCkgewogICAgICAgIGlmICh0ID09IG51bGwpIHsKICAgICAgICAgICAgdCA9IG5ldyBUaHJlYWQodGhpcywgc29ja2V0dG9jbGllbnQudG9TdHJpbmcoKSk7CiAgICAgICAgICAgIHQuc3RhcnQoKTsKICAgICAgICB9CiAgICB9Cn0fcGFja2FnZSBtYWluOwoKaW1wb3J0IGlvLmxvZzsKaW1wb3J0IG5ldHdvcmsucHJvdG9jb2w7CmltcG9ydCBwcm9jZXNzLmNsYXNzaWZpZXI7CmltcG9ydCBpby5tZDU7CgppbXBvcnQgamF2YS5pby4qOwppbXBvcnQgamF2YS5uZXQuU29ja2V0OwppbXBvcnQgamF2YS5uaW8uY2hhcnNldC5TdGFuZGFyZENoYXJzZXRzOwppbXBvcnQgamF2YS51dGlsLkJhc2U2NDsKaW1wb3J0IGphdmEudXRpbC5PYmplY3RzOwoKY2xhc3Mgc2VydmVydGhyZWFkIGV4dGVuZHMgVGhyZWFkIHsKICAgIHByaXZhdGUgVGhyZWFkIHQ7CiAgICBwcml2YXRlIFNvY2tldCBzb2NrZXR0b2NsaWVudDsKICAgIHByaXZhdGUgQnVmZmVyZWRSZWFkZXIgcmVjdjsKICAgIHByaXZhdGUgQnVmZmVyZWRXcml0ZXIgc2VuZDsKICAgIHByaXZhdGUgYm9vbGVhbiBlcnJvciA9IGZhbHNlOwoKICAgIHNlcnZlcnRocmVhZChTb2NrZXQgc3RvY3MpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgdGhpcy5zb2NrZXR0b2NsaWVudCA9IHN0b2NzOwogICAgICAgIGxvZy5wcmludGYoIlsiICsgc29ja2V0dG9jbGllbnQuZ2V0UmVtb3RlU29ja2V0QWRkcmVzcygpLnRvU3RyaW5nKCkgKyAiXSIgKyAiQ29ubmVjdGVkIik7CiAgICAgICAgcmVjdiA9IG5ldyBCdWZmZXJlZFJlYWRlcihuZXcgSW5wdXRTdHJlYW1SZWFkZXIoc29ja2V0dG9jbGllbnQuZ2V0SW5wdXRTdHJlYW0oKSkpOwogICAgICAgIHNlbmQgPSBuZXcgQnVmZmVyZWRXcml0ZXIobmV3IE91dHB1dFN0cmVhbVdyaXRlcihzb2NrZXR0b2NsaWVudC5nZXRPdXRwdXRTdHJlYW0oKSkpOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICB3aGlsZSAoIXNvY2tldHRvY2xpZW50LmlzQ2xvc2VkKCkpIHsKICAgICAgICAgICAgcHJvdG9jb2wgZGVjb2RlcjsKICAgICAgICAgICAgU3RyaW5nQnVpbGRlciByZWN2c3RyID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIHJlY3ZzdHIuYXBwZW5kKHJlY3YucmVhZExpbmUoKSk7CiAgICAgICAgICAgICAgICB3aGlsZSAoIXJlY3ZzdHIudG9TdHJpbmcoKS5zdWJzdHJpbmcocmVjdnN0ci50b1N0cmluZygpLmxlbmd0aCgpIC0gMSkuZXF1YWxzKCJcdTAwMDUiKSkgewogICAgICAgICAgICAgICAgICAgIHJlY3ZzdHIuYXBwZW5kKHJlY3YucmVhZExpbmUoKSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICByZWN2c3RyLmRlbGV0ZShyZWN2c3RyLmxlbmd0aCgpIC0gMSxyZWN2c3RyLmxlbmd0aCgpKTsKICAgICAgICAgICAgICAgIGlmICghcmVjdnN0ci50b1N0cmluZygpLnNwbGl0KCJcdTAwMDQiKVsxXS5lcXVhbHMoT2JqZWN0cy5yZXF1aXJlTm9uTnVsbChtZDUubWQ1X2VuY29kZShyZWN2c3RyLnRvU3RyaW5nKCkuc3BsaXQoIlx1MDAwNCIpWzBdKSkudG9Mb3dlckNhc2UoKSkpIGVycm9yPXRydWU7CiAgICAgICAgICAgICAgICBTdHJpbmcgcj1yZWN2c3RyLnRvU3RyaW5nKCkuc3BsaXQoIlx1MDAwNCIpWzBdOwogICAgICAgICAgICAgICAgaWYgKCFlcnJvcikgewogICAgICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGRlY29kZXIgPSBuZXcgcHJvdG9jb2wocik7CiAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgbG9nLnByaW50ZigiRXJyb3IgcHJvdG9jb2wiKTsKICAgICAgICAgICAgICAgICAgICAgICAgZGVjb2RlciA9IG5ldyBwcm90b2NvbCgiWlhKeVpnPT0iKTsKICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3IgPSB0cnVlOwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgaWYgKCFlcnJvcikgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWRlY29kZXIuZ2V0Q29tbWFuZCgpLmVxdWFscygiZXhpdCIpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2cucHJpbnRmKCJbIiArIHNvY2tldHRvY2xpZW50LmdldFJlbW90ZVNvY2tldEFkZHJlc3MoKS50b1N0cmluZygpICsgIl0iICsgcmVjdnN0ciArICIgWyIgKyBkZWNvZGVyLmdldENvbW1hbmQoKSArICJdKCIgKyBkZWNvZGVyLmdldEFsbFBhcmFtZXRlcigpICsgIikiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzaWZpZXIgcHJvY2VzcyA9IG5ldyBjbGFzc2lmaWVyKGRlY29kZXIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VuZC53cml0ZShCYXNlNjQuZ2V0RW5jb2RlcigpLmVuY29kZVRvU3RyaW5nKHByb2Nlc3MucmV0dXJuYmFjaygpLmdldEJ5dGVzKFN0YW5kYXJkQ2hhcnNldHMuVVRGXzgpKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2cucHJpbnRmKCJUb1siICsgc29ja2V0dG9jbGllbnQuZ2V0UmVtb3RlU29ja2V0QWRkcmVzcygpLnRvU3RyaW5nKCkgKyAiXSIgKyAiIFsiICsgcHJvY2Vzcy5yZXR1cm5iYWNrKCkgKyAiXSIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VuZC53cml0ZSgiXHUwMDA0Iik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZW5kLmZsdXNoKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb2NrZXR0b2NsaWVudC5jbG9zZSgpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgc2VuZC53cml0ZSgiXHUwMDA0Iik7CiAgICAgICAgICAgICAgICAgICAgICAgIHNlbmQuZmx1c2goKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgc2VuZC53cml0ZSgiXHUwMDA2Iik7CiAgICAgICAgICAgICAgICAgICAgc2VuZC5mbHVzaCgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9IGNhdGNoIChTdHJpbmdJbmRleE91dE9mQm91bmRzRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgc2VuZC53cml0ZSgiXHUwMDA0Iik7CiAgICAgICAgICAgICAgICAgICAgc2VuZC5mbHVzaCgpOwogICAgICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZWwpIHsKICAgICAgICAgICAgICAgICAgICBsb2cucHJpbnRmKCJbIiArIHNvY2tldHRvY2xpZW50LmdldFJlbW90ZVNvY2tldEFkZHJlc3MoKS50b1N0cmluZygpICsgIl0iICsgIiBFcnJvcjpcbiIgKyBlbC50b1N0cmluZygpKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgbG9nLnByaW50ZigiWyIgKyBzb2NrZXR0b2NsaWVudC5nZXRSZW1vdGVTb2NrZXRBZGRyZXNzKCkudG9TdHJpbmcoKSArICJdIiArICIgRXJyb3I6XG4iICsgZS50b1N0cmluZygpKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGVycm9yID0gZmFsc2U7CiAgICAgICAgfQogICAgICAgIGxvZy5wcmludGYoc29ja2V0dG9jbGllbnQuZ2V0UmVtb3RlU29ja2V0QWRkcmVzcygpLnRvU3RyaW5nKCkgKyAiIGV4aXRlZCIpOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHN0YXJ0KCkgewogICAgICAgIGlmICh0ID09IG51bGwpIHsKICAgICAgICAgICAgdCA9IG5ldyBUaHJlYWQodGhpcywgc29ja2V0dG9jbGllbnQudG9TdHJpbmcoKSk7CiAgICAgICAgICAgIHQuc3RhcnQoKTsKICAgICAgICB9CiAgICB9Cn0=0122f516291e9fb6ebe77ae473675d6e [ulog](132131231231231231231231231dawdwadwpackage main;
+
+import io.log;
+import network.protocol;
+import process.classifier;
+import io.md5;
+
+import java.io.*;
+import java.net.Socket;
+import java.nio.charset.StandardCharsets;
+import java.util.Base64;
+import java.util.Objects;
+
+class serverthread extends Thread {
+    private Thread t;
+    private Socket sockettoclient;
+    private BufferedReader recv;
+    private BufferedWriter send;
+    private boolean error = false;
+
+    serverthread(Socket stocs) throws IOException {
+        this.sockettoclient = stocs;
+        log.printf("[" + sockettoclient.getRemoteSocketAddress().toString() + "]" + "Connected");
+        recv = new BufferedReader(new InputStreamReader(sockettoclient.getInputStream()));
+        send = new BufferedWriter(new OutputStreamWriter(sockettoclient.getOutputStream()));
+    }
+
+    public void run() {
+        while (!sockettoclient.isClosed()) {
+            protocol decoder;
+            StringBuilder recvstr = new StringBuilder();
+            try {
+                recvstr.append(recv.readLine());
+                while (!recvstr.toString().substring(recvstr.toString().length() - 1).equals("\u0005")) {
+                    recvstr.append(recv.readLine());
+                }
+                recvstr.delete(recvstr.length() - 1,recvstr.length());
+                if (!recvstr.toString().split("\u0004")[1].equals(Objects.requireNonNull(md5.md5_encode(recvstr.toString().split("\u0004")[0])).toLowerCase())) error=true;
+                String r=recvstr.toString().split("\u0004")[0];
+                if (!error) {
+                    try {
+                        decoder = new protocol(r);
+                    } catch (IllegalArgumentException e) {
+                        log.printf("Error protocol");
+                        decoder = new protocol("ZXJyZg==");
+                        error = true;
+                    }
+
+                    if (!error) {
+                        if (!decoder.getCommand().equals("exit")) {
+                            log.printf("[" + sockettoclient.getRemoteSocketAddress().toString() + "]" + recvstr + " [" + decoder.getCommand() + "](" + decoder.getAllParameter() + ")");
+                            classifier process = new classifier(decoder);
+                            send.write(Base64.getEncoder().encodeToString(process.returnback().getBytes(StandardCharsets.UTF_8)));
+                            log.printf("To[" + sockettoclient.getRemoteSocketAddress().toString() + "]" + " [" + process.returnback() + "]");
+                            send.write("\u0004");
+                            send.flush();
+                        } else {
+                            sockettoclient.close();
+                        }
+                    } else {
+                        send.write("\u0004");
+                        send.flush();
+                    }
+                }
+                else
+                {
+                    send.write("\u0006");
+                    send.flush();
+                }
+            } catch (StringIndexOutOfBoundsException e) {
+                try {
+                    send.write("\u0004");
+                    send.flush();
+                } catch (IOException el) {
+                    log.printf("[" + sockettoclient.getRemoteSocketAddress().toString() + "]" + " Error:\n" + el.toString());
+                    break;
+                }
+            } catch (IOException e) {
+                log.printf("[" + sockettoclient.getRemoteSocketAddress().toString() + "]" + " Error:\n" + e.toString());
+                break;
+            }
+            error = false;
+        }
+        log.printf(sockettoclient.getRemoteSocketAddress().toString() + " exited");
+    }
+
+    public void start() {
+        if (t == null) {
+            t = new Thread(this, sockettoclient.toString());
+            t.start();
+        }
+    }
+}package main;
+
+import io.log;
+import network.protocol;
+import process.classifier;
+import io.md5;
+
+import java.io.*;
+import java.net.Socket;
+import java.nio.charset.StandardCharsets;
+import java.util.Base64;
+import java.util.Objects;
+
+class serverthread extends Thread {
+    private Thread t;
+    private Socket sockettoclient;
+    private BufferedReader recv;
+    private BufferedWriter send;
+    private boolean error = false;
+
+    serverthread(Socket stocs) throws IOException {
+        this.sockettoclient = stocs;
+        log.printf("[" + sockettoclient.getRemoteSocketAddress().toString() + "]" + "Connected");
+        recv = new BufferedReader(new InputStreamReader(sockettoclient.getInputStream()));
+        send = new BufferedWriter(new OutputStreamWriter(sockettoclient.getOutputStream()));
+    }
+
+    public void run() {
+        while (!sockettoclient.isClosed()) {
+            protocol decoder;
+            StringBuilder recvstr = new StringBuilder();
+            try {
+                recvstr.append(recv.readLine());
+                while (!recvstr.toString().substring(recvstr.toString().length() - 1).equals("\u0005")) {
+                    recvstr.append(recv.readLine());
+                }
+                recvstr.delete(recvstr.length() - 1,recvstr.length());
+                if (!recvstr.toString().split("\u0004")[1].equals(Objects.requireNonNull(md5.md5_encode(recvstr.toString().split("\u0004")[0])).toLowerCase())) error=true;
+                String r=recvstr.toString().split("\u0004")[0];
+                if (!error) {
+                    try {
+                        decoder = new protocol(r);
+                    } catch (IllegalArgumentException e) {
+                        log.printf("Error protocol");
+                        decoder = new protocol("ZXJyZg==");
+                        error = true;
+                    }
+
+                    if (!error) {
+                        if (!decoder.getCommand().equals("exit")) {
+                            log.printf("[" + sockettoclient.getRemoteSocketAddress().toString() + "]" + recvstr + " [" + decoder.getCommand() + "](" + decoder.getAllParameter() + ")");
+                            classifier process = new classifier(decoder);
+                            send.write(Base64.getEncoder().encodeToString(process.returnback().getBytes(StandardCharsets.UTF_8)));
+                            log.printf("To[" + sockettoclient.getRemoteSocketAddress().toString() + "]" + " [" + process.returnback() + "]");
+                            send.write("\u0004");
+                            send.flush();
+                        } else {
+                            sockettoclient.close();
+                        }
+                    } else {
+                        send.write("\u0004");
+                        send.flush();
+                    }
+                }
+                else
+                {
+                    send.write("\u0006");
+                    send.flush();
+                }
+            } catch (StringIndexOutOfBoundsException e) {
+                try {
+                    send.write("\u0004");
+                    send.flush();
+                } catch (IOException el) {
+                    log.printf("[" + sockettoclient.getRemoteSocketAddress().toString() + "]" + " Error:\n" + el.toString());
+                    break;
+                }
+            } catch (IOException e) {
+                log.printf("[" + sockettoclient.getRemoteSocketAddress().toString() + "]" + " Error:\n" + e.toString());
+                break;
+            }
+            error = false;
+        }
+        log.printf(sockettoclient.getRemoteSocketAddress().toString() + " exited");
+    }
+
+    public void start() {
+        if (t == null) {
+            t = new Thread(this, sockettoclient.toString());
+            t.start();
+        }
+    }
+})
+To[/0:0:0:0:0:0:0:1:57559] [fall]
+[/0:0:0:0:0:0:0:1:57559]dWxvZ3F3cXdxHw==cf5346b7f44300756c9d542b11c3c504 [ulog](qwqwq)
+To[/0:0:0:0:0:0:0:1:57559] [erro]
+[/0:0:0:0:0:0:0:1:57559]dWxvZ3F3cXdxd3F3cXdxH3F3d3F3cXdxdw==bcbf608c773cdb8ba46b3c57bf2d37a7 [ulog](qwqwqwqwqwqqwwqwqwqw)
+To[/0:0:0:0:0:0:0:1:57559] [fall]
+[/0:0:0:0:0:0:0:1:57559] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:57559 exited
+[/0:0:0:0:0:0:0:1:57592]Connected
+[/0:0:0:0:0:0:0:1:57592] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:57592 exited
+[/0:0:0:0:0:0:0:1:57671]Connected
+[/0:0:0:0:0:0:0:1:57671] Error:
+java.net.SocketException: Unrecognized Windows Sockets error: 0: recv failed
+Server Starting...
+ServerPort:8864
+[/0:0:0:0:0:0:0:1:57766]Connected
+[/0:0:0:0:0:0:0:1:57766]dWxvZzEfMg==de8e4b7d9e03ccc9ebbcfca121c05d9c [ulog](12)
+To[/0:0:0:0:0:0:0:1:57766] [succ]
+[/0:0:0:0:0:0:0:1:57766] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:57766 exited
+[/0:0:0:0:0:0:0:1:57795]Connected
+[/0:0:0:0:0:0:0:1:57795]dWxvZzEfMg==de8e4b7d9e03ccc9ebbcfca121c05d9c [ulog](12)
+To[/0:0:0:0:0:0:0:1:57795] [succ]
