@@ -11,8 +11,9 @@ public class protocol {
             code = code.substring(0, code.length() - 1);
         String firstdecode;
         firstdecode = new String(Base64.getDecoder().decode(code));
-        command = firstdecode.substring(0, 4);
-        parameterAll = firstdecode.substring(4);
+        String[] all = firstdecode.split("\u001c");
+        command = all[0];
+        parameterAll = all[1];
         parameters = parameterAll.split(String.valueOf('\u001F'));
     }
 
