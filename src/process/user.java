@@ -11,9 +11,11 @@ class user {
 
     static boolean login(String Username, String Password,people t) {
         try {
+            if (!file.read(Username + ".lock").equals("unlock")) return false;
             if (file.read(Username + "." + "md5").equals(md5.md5_encode(Password + "PokePassword" + Password + "Username" + md5.md5_encode("UsernamePoke" + Username))))
             {
                 t.username= Username;
+                file.write(Username + ".lock", "lock");
                 return true;
             }
             else
@@ -31,6 +33,7 @@ class user {
         } else {
             try {
                 file.write(Username + "." + "md5", md5.md5_encode(Password + "PokePassword" + Password + "Username" + md5.md5_encode("UsernamePoke" + Username)));
+                file.write(Username + ".lock", "lock");
             } catch (IOException e) {
                 return false;
             }

@@ -1,6 +1,6 @@
 package process;
 
 public class people {
-    String username;
+    public String username = "";
     boolean isgomokuing=false;
 }

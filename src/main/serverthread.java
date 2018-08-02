@@ -1,5 +1,6 @@
 package main;
 
+import io.file;
 import io.log;
 import io.md5;
 import network.protocol;
@@ -81,6 +82,11 @@ class serverthread extends Thread {
             }
             error = false;
         }
+        if (!t.username.equals(""))
+            try {
+                file.write(t.username + ".lock", "unlock");
+            } catch (IOException ignored) {
+            }
         log.printf(sockettoclient.getRemoteSocketAddress().toString() + " exited");
     }
 

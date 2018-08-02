@@ -1836,3 +1836,94 @@ java.net.SocketException: Connection reset
 [/0:0:0:0:0:0:0:1:62329] Error:
 java.net.SocketException: Connection reset
 /0:0:0:0:0:0:0:1:62329 exited
+Server Starting...
+ServerPort:8864
+[/0:0:0:0:0:0:0:1:62521]Connected
+[/0:0:0:0:0:0:0:1:62522]Connected
+[/0:0:0:0:0:0:0:1:62523]Connected
+[/0:0:0:0:0:0:0:1:62522]dXNlcmxvZxwxH2NhZjEzOTdkODY4ZTA1ZDE2OTNlYWM3ZGMxM2RlZDk0230af38b059e43191820045d702035f7 [userlog](1caf1397d868e05d1693eac7dc13ded94)
+To[/0:0:0:0:0:0:0:1:62522] [succ]
+[/0:0:0:0:0:0:0:1:62521]dXNlcmxvZxwxH2NhZjEzOTdkODY4ZTA1ZDE2OTNlYWM3ZGMxM2RlZDk0230af38b059e43191820045d702035f7 [userlog](1caf1397d868e05d1693eac7dc13ded94)
+To[/0:0:0:0:0:0:0:1:62521] [succ]
+[/0:0:0:0:0:0:0:1:62523]dXNlcmxvZxwxH2NhZjEzOTdkODY4ZTA1ZDE2OTNlYWM3ZGMxM2RlZDk0230af38b059e43191820045d702035f7 [userlog](1caf1397d868e05d1693eac7dc13ded94)
+To[/0:0:0:0:0:0:0:1:62523] [succ]
+[/0:0:0:0:0:0:0:1:62522]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:62522] [ok]
+[/0:0:0:0:0:0:0:1:62523]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:62523] [ok]
+[/0:0:0:0:0:0:0:1:62521]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:62521] [ok]
+[/0:0:0:0:0:0:0:1:62522]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62522] [true]
+[/0:0:0:0:0:0:0:1:62523]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62523] [true]
+[/0:0:0:0:0:0:0:1:62521]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62521] [true]
+[/0:0:0:0:0:0:0:1:62522] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:62522 exited
+[/0:0:0:0:0:0:0:1:62521] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:62521 exited
+[/0:0:0:0:0:0:0:1:62523] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:62523 exited
+Server Starting...
+ServerPort:8864
+[/0:0:0:0:0:0:0:1:62657]Connected
+[/0:0:0:0:0:0:0:1:62657]dXNlcmxvZxwxH2NhZjEzOTdkODY4ZTA1ZDE2OTNlYWM3ZGMxM2RlZDk0230af38b059e43191820045d702035f7 [userlog](1caf1397d868e05d1693eac7dc13ded94)
+To[/0:0:0:0:0:0:0:1:62657] [fall]
+[/0:0:0:0:0:0:0:1:62657]dXNlcmxvZxwxH2NhZjEzOTdkODY4ZTA1ZDE2OTNlYWM3ZGMxM2RlZDk0230af38b059e43191820045d702035f7 [userlog](1caf1397d868e05d1693eac7dc13ded94)
+To[/0:0:0:0:0:0:0:1:62657] [fall]
+[/0:0:0:0:0:0:0:1:62657] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:62657 exited
+[/0:0:0:0:0:0:0:1:62666]Connected
+[/0:0:0:0:0:0:0:1:62666]dXNlcmxvZxwxH2NhZjEzOTdkODY4ZTA1ZDE2OTNlYWM3ZGMxM2RlZDk0230af38b059e43191820045d702035f7 [userlog](1caf1397d868e05d1693eac7dc13ded94)
+To[/0:0:0:0:0:0:0:1:62666] [fall]
+[/0:0:0:0:0:0:0:1:62666]dXNlcnJlZxwxH2NhZjEzOTdkODY4ZTA1ZDE2OTNlYWM3ZGMxM2RlZDk05a495c188a7082fe6192bed25ffd9907 [userreg](1caf1397d868e05d1693eac7dc13ded94)
+To[/0:0:0:0:0:0:0:1:62666] [succ]
+[/0:0:0:0:0:0:0:1:62671]Connected
+[/0:0:0:0:0:0:0:1:62671]dXNlcmxvZxwxH2NhZjEzOTdkODY4ZTA1ZDE2OTNlYWM3ZGMxM2RlZDk0230af38b059e43191820045d702035f7 [userlog](1caf1397d868e05d1693eac7dc13ded94)
+To[/0:0:0:0:0:0:0:1:62671] [fall]
+[/0:0:0:0:0:0:0:1:62671]dXNlcmxvZxwxH2NhZjEzOTdkODY4ZTA1ZDE2OTNlYWM3ZGMxM2RlZDk0230af38b059e43191820045d702035f7 [userlog](1caf1397d868e05d1693eac7dc13ded94)
+To[/0:0:0:0:0:0:0:1:62671] [fall]
+[/0:0:0:0:0:0:0:1:62671]dXNlcmxvZxwxH2NhZjEzOTdkODY4ZTA1ZDE2OTNlYWM3ZGMxM2RlZDk0230af38b059e43191820045d702035f7 [userlog](1caf1397d868e05d1693eac7dc13ded94)
+To[/0:0:0:0:0:0:0:1:62671] [fall]
+[/0:0:0:0:0:0:0:1:62671]dXNlcmxvZxwxH2NhZjEzOTdkODY4ZTA1ZDE2OTNlYWM3ZGMxM2RlZDk0230af38b059e43191820045d702035f7 [userlog](1caf1397d868e05d1693eac7dc13ded94)
+To[/0:0:0:0:0:0:0:1:62671] [fall]
+[/0:0:0:0:0:0:0:1:62671]dXNlcmxvZxwxH2NhZjEzOTdkODY4ZTA1ZDE2OTNlYWM3ZGMxM2RlZDk0230af38b059e43191820045d702035f7 [userlog](1caf1397d868e05d1693eac7dc13ded94)
+To[/0:0:0:0:0:0:0:1:62671] [fall]
+[/0:0:0:0:0:0:0:1:62671]dXNlcmxvZxwxH2NhZjEzOTdkODY4ZTA1ZDE2OTNlYWM3ZGMxM2RlZDk0230af38b059e43191820045d702035f7 [userlog](1caf1397d868e05d1693eac7dc13ded94)
+To[/0:0:0:0:0:0:0:1:62671] [fall]
+[/0:0:0:0:0:0:0:1:62671]dXNlcmxvZxwxH2NhZjEzOTdkODY4ZTA1ZDE2OTNlYWM3ZGMxM2RlZDk0230af38b059e43191820045d702035f7 [userlog](1caf1397d868e05d1693eac7dc13ded94)
+To[/0:0:0:0:0:0:0:1:62671] [fall]
+[/0:0:0:0:0:0:0:1:62671]dXNlcnJlZxwyHzFhYzgwYzFiMTMyNjczMTJmYTU2MmI5YWE0ODZkMzFl0f65b4a1a5aa075a0e29a9eb3bf7292b [userreg](21ac80c1b13267312fa562b9aa486d31e)
+To[/0:0:0:0:0:0:0:1:62671] [succ]
+[/0:0:0:0:0:0:0:1:62666]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:62666] [ok]
+[/0:0:0:0:0:0:0:1:62666]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62666] [true]
+[/0:0:0:0:0:0:0:1:62666] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:62666 exited
+Server Starting...
+ServerPort:8864
+[/0:0:0:0:0:0:0:1:64336]Connected
+[/0:0:0:0:0:0:0:1:64339]Connected
+[/0:0:0:0:0:0:0:1:64336]dXNlcmxvZxwxH2NhZjEzOTdkODY4ZTA1ZDE2OTNlYWM3ZGMxM2RlZDk0230af38b059e43191820045d702035f7 [userlog](1caf1397d868e05d1693eac7dc13ded94)
+To[/0:0:0:0:0:0:0:1:64336] [succ]
+[/0:0:0:0:0:0:0:1:64339]dXNlcmxvZxwyHzFhYzgwYzFiMTMyNjczMTJmYTU2MmI5YWE0ODZkMzFlf831c3f31bad280c3bf15f88bdddb904 [userlog](21ac80c1b13267312fa562b9aa486d31e)
+To[/0:0:0:0:0:0:0:1:64339] [fall]
+[/0:0:0:0:0:0:0:1:64339]dXNlcmxvZxwxH2NhZjEzOTdkODY4ZTA1ZDE2OTNlYWM3ZGMxM2RlZDk0230af38b059e43191820045d702035f7 [userlog](1caf1397d868e05d1693eac7dc13ded94)
+To[/0:0:0:0:0:0:0:1:64339] [fall]
+[/0:0:0:0:0:0:0:1:64339]dXNlcmxvZxwxH2NhZjEzOTdkODY4ZTA1ZDE2OTNlYWM3ZGMxM2RlZDk0230af38b059e43191820045d702035f7 [userlog](1caf1397d868e05d1693eac7dc13ded94)
+To[/0:0:0:0:0:0:0:1:64339] [fall]
+[/0:0:0:0:0:0:0:1:64336] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:64336 exited
+[/0:0:0:0:0:0:0:1:64339]dXNlcmxvZxwxH2NhZjEzOTdkODY4ZTA1ZDE2OTNlYWM3ZGMxM2RlZDk0230af38b059e43191820045d702035f7 [userlog](1caf1397d868e05d1693eac7dc13ded94)
+To[/0:0:0:0:0:0:0:1:64339] [succ]
+[/0:0:0:0:0:0:0:1:64339] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:64339 exited
