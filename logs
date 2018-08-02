@@ -1927,3 +1927,139 @@ To[/0:0:0:0:0:0:0:1:64339] [succ]
 [/0:0:0:0:0:0:0:1:64339] Error:
 java.net.SocketException: Connection reset
 /0:0:0:0:0:0:0:1:64339 exited
+Server Starting...
+ServerPort:8864
+[/0:0:0:0:0:0:0:1:64757]Connected
+[/0:0:0:0:0:0:0:1:64764]Connected
+[/0:0:0:0:0:0:0:1:64765]Connected
+[/0:0:0:0:0:0:0:1:64775]Connected
+[/0:0:0:0:0:0:0:1:64775]dXNlcmxvZxwxH2NhZjEzOTdkODY4ZTA1ZDE2OTNlYWM3ZGMxM2RlZDk0230af38b059e43191820045d702035f7 [userlog](1caf1397d868e05d1693eac7dc13ded94)
+To[/0:0:0:0:0:0:0:1:64775] [succ]
+[/0:0:0:0:0:0:0:1:64765]dXNlcmxvZxwyHzFhYzgwYzFiMTMyNjczMTJmYTU2MmI5YWE0ODZkMzFlf831c3f31bad280c3bf15f88bdddb904 [userlog](21ac80c1b13267312fa562b9aa486d31e)
+To[/0:0:0:0:0:0:0:1:64765] [fall]
+[/0:0:0:0:0:0:0:1:64765]dXNlcmxvZxwyH2MyMDA2MTNlOTcxZjAxNTZhZDI4ZWE2OTgyMzUxYzcw99e39050cabdc86cc5d2e0a79296c57c [userlog](2c200613e971f0156ad28ea6982351c70)
+To[/0:0:0:0:0:0:0:1:64765] [fall]
+[/0:0:0:0:0:0:0:1:64765]dXNlcmxvZxwyHzFhYzgwYzFiMTMyNjczMTJmYTU2MmI5YWE0ODZkMzFlf831c3f31bad280c3bf15f88bdddb904 [userlog](21ac80c1b13267312fa562b9aa486d31e)
+To[/0:0:0:0:0:0:0:1:64765] [fall]
+[/0:0:0:0:0:0:0:1:64765]dXNlcnJlZxwyHzFhYzgwYzFiMTMyNjczMTJmYTU2MmI5YWE0ODZkMzFl0f65b4a1a5aa075a0e29a9eb3bf7292b [userreg](21ac80c1b13267312fa562b9aa486d31e)
+To[/0:0:0:0:0:0:0:1:64765] [fall]
+[/0:0:0:0:0:0:0:1:64765]dXNlcnJlZxwyHzFhYzgwYzFiMTMyNjczMTJmYTU2MmI5YWE0ODZkMzFl0f65b4a1a5aa075a0e29a9eb3bf7292b [userreg](21ac80c1b13267312fa562b9aa486d31e)
+To[/0:0:0:0:0:0:0:1:64765] [fall]
+[/0:0:0:0:0:0:0:1:64765]dXNlcmxvZxwyHzFhYzgwYzFiMTMyNjczMTJmYTU2MmI5YWE0ODZkMzFlf831c3f31bad280c3bf15f88bdddb904 [userlog](21ac80c1b13267312fa562b9aa486d31e)
+To[/0:0:0:0:0:0:0:1:64765] [succ]
+[/0:0:0:0:0:0:0:1:64764]dXNlcnJlZxwzHzg5ZDA0MTI3NDk2NTA5YmY0OTg1ZThlYmMxNTMxNTYw2a532cd831277c822bcb66dbb74a37aa [userreg](389d04127496509bf4985e8ebc1531560)
+To[/0:0:0:0:0:0:0:1:64764] [succ]
+[/0:0:0:0:0:0:0:1:64757]dXNlcnJlZxw0HzNmODRkYTE1M2ZlOWE4YzAxMWM4NzgwMTA0MjI2Mzg4502891552d7d3f0c3670f5dd30f6c563 [userreg](43f84da153fe9a8c011c8780104226388)
+To[/0:0:0:0:0:0:0:1:64757] [succ]
+[/0:0:0:0:0:0:0:1:64854]Connected
+[/0:0:0:0:0:0:0:1:64859]Connected
+[/0:0:0:0:0:0:0:1:64859]dXNlcnJlZxw1Hzc2MTM2YzdjNTRlNDUzYmJlMWYyNTg4OTA5ZTJmMGM12b6f5facbb63f0b27041ff95c2146e50 [userreg](576136c7c54e453bbe1f2588909e2f0c5)
+To[/0:0:0:0:0:0:0:1:64859] [succ]
+[/0:0:0:0:0:0:0:1:64854]dXNlcnJlZxw2H2JiZDFhNGZkMjMzYzE0M2RkM2VlOWQwMjE4YWI2MDlkcdca515977225964dec61019761a330e [userreg](6bbd1a4fd233c143dd3ee9d0218ab609d)
+To[/0:0:0:0:0:0:0:1:64854] [succ]
+[/0:0:0:0:0:0:0:1:64854]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:64854] [ok]
+[/0:0:0:0:0:0:0:1:64859]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:64859] [ok]
+[/0:0:0:0:0:0:0:1:64757]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:64757] [ok]
+[/0:0:0:0:0:0:0:1:64764]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:64764] [ok]
+[/0:0:0:0:0:0:0:1:64775]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:64775] [ok]
+[/0:0:0:0:0:0:0:1:64765]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:64765] [ok]
+[/0:0:0:0:0:0:0:1:64854]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:64854] [true]
+[/0:0:0:0:0:0:0:1:64859]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:64859] [true]
+[/0:0:0:0:0:0:0:1:64757]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:64757] [true]
+[/0:0:0:0:0:0:0:1:64764]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:64764] [true]
+[/0:0:0:0:0:0:0:1:64775]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:64775] [true]
+[/0:0:0:0:0:0:0:1:64765]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:64765] [true]
+[/0:0:0:0:0:0:0:1:64775] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:64775 exited
+[/0:0:0:0:0:0:0:1:64859] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:64859 exited
+[/0:0:0:0:0:0:0:1:64854] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:64854 exited
+[/0:0:0:0:0:0:0:1:64757] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:64757 exited
+[/0:0:0:0:0:0:0:1:64765] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:64765 exited
+[/0:0:0:0:0:0:0:1:64764] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:64764 exited
+[/0:0:0:0:0:0:0:1:65049]Connected
+[/0:0:0:0:0:0:0:1:65052]Connected
+[/0:0:0:0:0:0:0:1:65055]Connected
+[/0:0:0:0:0:0:0:1:65058]Connected
+[/0:0:0:0:0:0:0:1:65062]Connected
+[/0:0:0:0:0:0:0:1:65064]Connected
+[/0:0:0:0:0:0:0:1:65064] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:65064 exited
+[/0:0:0:0:0:0:0:1:65082]Connected
+[/0:0:0:0:0:0:0:1:65082]dXNlcnJlZxwxH2NhZjEzOTdkODY4ZTA1ZDE2OTNlYWM3ZGMxM2RlZDk05a495c188a7082fe6192bed25ffd9907 [userreg](1caf1397d868e05d1693eac7dc13ded94)
+To[/0:0:0:0:0:0:0:1:65082] [succ]
+[/0:0:0:0:0:0:0:1:65052]dXNlcnJlZxwyHzFhYzgwYzFiMTMyNjczMTJmYTU2MmI5YWE0ODZkMzFl0f65b4a1a5aa075a0e29a9eb3bf7292b [userreg](21ac80c1b13267312fa562b9aa486d31e)
+To[/0:0:0:0:0:0:0:1:65052] [succ]
+[/0:0:0:0:0:0:0:1:65049]dXNlcnJlZxwzHzg5ZDA0MTI3NDk2NTA5YmY0OTg1ZThlYmMxNTMxNTYw2a532cd831277c822bcb66dbb74a37aa [userreg](389d04127496509bf4985e8ebc1531560)
+To[/0:0:0:0:0:0:0:1:65049] [succ]
+[/0:0:0:0:0:0:0:1:65055]dXNlcnJlZxw0HzNmODRkYTE1M2ZlOWE4YzAxMWM4NzgwMTA0MjI2Mzg4502891552d7d3f0c3670f5dd30f6c563 [userreg](43f84da153fe9a8c011c8780104226388)
+To[/0:0:0:0:0:0:0:1:65055] [succ]
+[/0:0:0:0:0:0:0:1:65058]dXNlcnJlZxw1Hzc2MTM2YzdjNTRlNDUzYmJlMWYyNTg4OTA5ZTJmMGM12b6f5facbb63f0b27041ff95c2146e50 [userreg](576136c7c54e453bbe1f2588909e2f0c5)
+To[/0:0:0:0:0:0:0:1:65058] [succ]
+[/0:0:0:0:0:0:0:1:65062]dXNlcnJlZxw2H2JiZDFhNGZkMjMzYzE0M2RkM2VlOWQwMjE4YWI2MDlkcdca515977225964dec61019761a330e [userreg](6bbd1a4fd233c143dd3ee9d0218ab609d)
+To[/0:0:0:0:0:0:0:1:65062] [succ]
+[/0:0:0:0:0:0:0:1:65062]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:65062] [ok]
+[/0:0:0:0:0:0:0:1:65058]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:65058] [ok]
+[/0:0:0:0:0:0:0:1:65055]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:65055] [ok]
+[/0:0:0:0:0:0:0:1:65049]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:65049] [ok]
+[/0:0:0:0:0:0:0:1:65052]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:65052] [ok]
+[/0:0:0:0:0:0:0:1:65082]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:65082] [ok]
+[/0:0:0:0:0:0:0:1:65062]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:65062] [true]
+[/0:0:0:0:0:0:0:1:65058]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:65058] [true]
+[/0:0:0:0:0:0:0:1:65055]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:65055] [true]
+[/0:0:0:0:0:0:0:1:65049]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:65049] [true]
+[/0:0:0:0:0:0:0:1:65052]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:65052] [true]
+[/0:0:0:0:0:0:0:1:65082]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:65082] [true]
+[/0:0:0:0:0:0:0:1:65062] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:65062 exited
+[/0:0:0:0:0:0:0:1:65058] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:65058 exited
+[/0:0:0:0:0:0:0:1:65055] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:65055 exited
+[/0:0:0:0:0:0:0:1:65049] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:65049 exited
+[/0:0:0:0:0:0:0:1:65082] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:65082 exited
+[/0:0:0:0:0:0:0:1:65052] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:65052 exited
