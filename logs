@@ -1142,3 +1142,697 @@ To[/0:0:0:0:0:0:0:1:56225] [succ]
 [/0:0:0:0:0:0:0:1:56225] Error:
 java.net.SocketException: Connection reset
 /0:0:0:0:0:0:0:1:56225 exited
+Server Starting...
+ServerPort:8864
+Server Starting...
+ServerPort:8864
+[/0:0:0:0:0:0:0:1:61627]Connected
+[/0:0:0:0:0:0:0:1:61627]dXNlcmxvZxwxH2NhZjEzOTdkODY4ZTA1ZDE2OTNlYWM3ZGMxM2RlZDk0230af38b059e43191820045d702035f7 [userlog](1caf1397d868e05d1693eac7dc13ded94)
+To[/0:0:0:0:0:0:0:1:61627] [succ]
+[/0:0:0:0:0:0:0:1:61631]Connected
+[/0:0:0:0:0:0:0:1:61631]dXNlcmxvZxwxH2NhZjEzOTdkODY4ZTA1ZDE2OTNlYWM3ZGMxM2RlZDk0230af38b059e43191820045d702035f7 [userlog](1caf1397d868e05d1693eac7dc13ded94)
+To[/0:0:0:0:0:0:0:1:61631] [succ]
+[/0:0:0:0:0:0:0:1:61627] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:61627 exited
+[/0:0:0:0:0:0:0:1:61701]Connected
+[/0:0:0:0:0:0:0:1:61701]dXNlcmxvZxwxH2NhZjEzOTdkODY4ZTA1ZDE2OTNlYWM3ZGMxM2RlZDk0230af38b059e43191820045d702035f7 [userlog](1caf1397d868e05d1693eac7dc13ded94)
+To[/0:0:0:0:0:0:0:1:61701] [succ]
+[/0:0:0:0:0:0:0:1:61701]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:61701] [ok]
+[/0:0:0:0:0:0:0:1:61701]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61701] [E]
+[/0:0:0:0:0:0:0:1:61701] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:61701 exited
+[/0:0:0:0:0:0:0:1:61740]Connected
+Server Starting...
+ServerPort:8864
+[/0:0:0:0:0:0:0:1:61754]Connected
+[/0:0:0:0:0:0:0:1:61754]dXNlcmxvZxwxH2NhZjEzOTdkODY4ZTA1ZDE2OTNlYWM3ZGMxM2RlZDk0230af38b059e43191820045d702035f7 [userlog](1caf1397d868e05d1693eac7dc13ded94)
+To[/0:0:0:0:0:0:0:1:61754] [succ]
+[/0:0:0:0:0:0:0:1:61754]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:61754] [ok]
+[/0:0:0:0:0:0:0:1:61754]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+[/0:0:0:0:0:0:0:1:61778]Connected
+Server Starting...
+ServerPort:8864
+[/0:0:0:0:0:0:0:1:61855]Connected
+[/0:0:0:0:0:0:0:1:61855]dXNlcmxvZxwxH2NhZjEzOTdkODY4ZTA1ZDE2OTNlYWM3ZGMxM2RlZDk0230af38b059e43191820045d702035f7 [userlog](1caf1397d868e05d1693eac7dc13ded94)
+To[/0:0:0:0:0:0:0:1:61855] [succ]
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [ok]
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [false]
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [false]
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [false]
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [false]
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [false]
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [false]
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [false]
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [false]
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [false]
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [false]
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [false]
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [false]
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [false]
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [false]
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [false]
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [false]
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [false]
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [false]
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [false]
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [false]
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [false]
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [false]
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [false]
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [false]
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [false]
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [false]
+[/0:0:0:0:0:0:0:1:61888]Connected
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [false]
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [false]
+[/0:0:0:0:0:0:0:1:61888]dXNlcnJlZxwyHzFhYzgwYzFiMTMyNjczMTJmYTU2MmI5YWE0ODZkMzFl0f65b4a1a5aa075a0e29a9eb3bf7292b [userreg](21ac80c1b13267312fa562b9aa486d31e)
+To[/0:0:0:0:0:0:0:1:61888] [succ]
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [false]
+[/0:0:0:0:0:0:0:1:61888]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:61888] [ok]
+[/0:0:0:0:0:0:0:1:61855]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61855] [true]
+[/0:0:0:0:0:0:0:1:61888]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:61888] [true]
+[/0:0:0:0:0:0:0:1:61888] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:61888 exited
+[/0:0:0:0:0:0:0:1:61855] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:61855 exited
+[/0:0:0:0:0:0:0:1:61931]Connected
+[/0:0:0:0:0:0:0:1:61932]Connected
+[/0:0:0:0:0:0:0:1:61935]Connected
+[/0:0:0:0:0:0:0:1:61932]dXNlcmxvZxwxH2NhZjEzOTdkODY4ZTA1ZDE2OTNlYWM3ZGMxM2RlZDk0230af38b059e43191820045d702035f7 [userlog](1caf1397d868e05d1693eac7dc13ded94)
+To[/0:0:0:0:0:0:0:1:61932] [succ]
+[/0:0:0:0:0:0:0:1:61931]dXNlcmxvZxwyMjIfNzQ1ZDJjNmRmYzUzYzU3MDEwZTE1ZmE3ZjkwYzk3Zjk=b4a0d2d90045b8f45ffdacb61142e7a2 [userlog](222745d2c6dfc53c57010e15fa7f90c97f9)
+To[/0:0:0:0:0:0:0:1:61931] [fall]
+[/0:0:0:0:0:0:0:1:61931]dXNlcmxvZxwyHzFhYzgwYzFiMTMyNjczMTJmYTU2MmI5YWE0ODZkMzFlf831c3f31bad280c3bf15f88bdddb904 [userlog](21ac80c1b13267312fa562b9aa486d31e)
+To[/0:0:0:0:0:0:0:1:61931] [succ]
+[/0:0:0:0:0:0:0:1:61935]dXNlcnJlZxwzHzg5ZDA0MTI3NDk2NTA5YmY0OTg1ZThlYmMxNTMxNTYw2a532cd831277c822bcb66dbb74a37aa [userreg](389d04127496509bf4985e8ebc1531560)
+To[/0:0:0:0:0:0:0:1:61935] [succ]
+[/0:0:0:0:0:0:0:1:61931]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:61931] [ok]
+[/0:0:0:0:0:0:0:1:61932]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:61932] [ok]
+[/0:0:0:0:0:0:0:1:61931]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+[/0:0:0:0:0:0:0:1:61935]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:61935] [ok]
+[/0:0:0:0:0:0:0:1:61935]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+[/0:0:0:0:0:0:0:1:61932] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:61932 exited
+Server Starting...
+ServerPort:8864
+[/0:0:0:0:0:0:0:1:61999]Connected
+[/0:0:0:0:0:0:0:1:61999]dXNlcmxvZxwxH2NhZjEzOTdkODY4ZTA1ZDE2OTNlYWM3ZGMxM2RlZDk0230af38b059e43191820045d702035f7 [userlog](1caf1397d868e05d1693eac7dc13ded94)
+To[/0:0:0:0:0:0:0:1:61999] [succ]
+[/0:0:0:0:0:0:0:1:62002]Connected
+[/0:0:0:0:0:0:0:1:62002]dXNlcmxvZxwyHzFhYzgwYzFiMTMyNjczMTJmYTU2MmI5YWE0ODZkMzFlf831c3f31bad280c3bf15f88bdddb904 [userlog](21ac80c1b13267312fa562b9aa486d31e)
+To[/0:0:0:0:0:0:0:1:62002] [succ]
+[/0:0:0:0:0:0:0:1:62006]Connected
+[/0:0:0:0:0:0:0:1:62006]dXNlcmxvZxwzHzg5ZDA0MTI3NDk2NTA5YmY0OTg1ZThlYmMxNTMxNTYw00cb58ef4380c75aae0f068b8db2490e [userlog](389d04127496509bf4985e8ebc1531560)
+To[/0:0:0:0:0:0:0:1:62006] [succ]
+[/0:0:0:0:0:0:0:1:62006]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:62006] [ok]
+[/0:0:0:0:0:0:0:1:62002]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:62002] [ok]
+[/0:0:0:0:0:0:0:1:61999]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:61999] [ok]
+[/0:0:0:0:0:0:0:1:62006]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62006] [false]
+[/0:0:0:0:0:0:0:1:62002]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62002] [false]
+[/0:0:0:0:0:0:0:1:61999]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+[/0:0:0:0:0:0:0:1:62006]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62006] [false]
+[/0:0:0:0:0:0:0:1:62002]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62002] [false]
+[/0:0:0:0:0:0:0:1:62006]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62006] [false]
+[/0:0:0:0:0:0:0:1:62002]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62002] [false]
+[/0:0:0:0:0:0:0:1:62006]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62006] [false]
+[/0:0:0:0:0:0:0:1:62002]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62002] [false]
+[/0:0:0:0:0:0:0:1:62006]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62006] [false]
+[/0:0:0:0:0:0:0:1:62002]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62002] [false]
+[/0:0:0:0:0:0:0:1:62006]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62006] [false]
+[/0:0:0:0:0:0:0:1:62002]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62002] [false]
+[/0:0:0:0:0:0:0:1:62006]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62006] [false]
+[/0:0:0:0:0:0:0:1:62002]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62002] [false]
+[/0:0:0:0:0:0:0:1:62006]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62006] [false]
+[/0:0:0:0:0:0:0:1:62002]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62002] [false]
+[/0:0:0:0:0:0:0:1:62006]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62006] [false]
+[/0:0:0:0:0:0:0:1:62002]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62002] [false]
+[/0:0:0:0:0:0:0:1:62006]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62006] [false]
+[/0:0:0:0:0:0:0:1:62002]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62002] [false]
+[/0:0:0:0:0:0:0:1:62006]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62006] [false]
+[/0:0:0:0:0:0:0:1:62002]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62002] [false]
+[/0:0:0:0:0:0:0:1:62006]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62006] [false]
+[/0:0:0:0:0:0:0:1:62002]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62002] [false]
+[/0:0:0:0:0:0:0:1:62006]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62006] [false]
+[/0:0:0:0:0:0:0:1:62002]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62002] [false]
+[/0:0:0:0:0:0:0:1:62006]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62006] [false]
+[/0:0:0:0:0:0:0:1:62002]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62002] [false]
+[/0:0:0:0:0:0:0:1:62006]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62006] [false]
+[/0:0:0:0:0:0:0:1:62002]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62002] [false]
+[/0:0:0:0:0:0:0:1:62006]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62006] [false]
+[/0:0:0:0:0:0:0:1:62002]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62002] [false]
+[/0:0:0:0:0:0:0:1:62006]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62006] [false]
+[/0:0:0:0:0:0:0:1:62002]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62002] [false]
+[/0:0:0:0:0:0:0:1:62006]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62006] [false]
+[/0:0:0:0:0:0:0:1:62002]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62002] [false]
+[/0:0:0:0:0:0:0:1:62006]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62006] [false]
+[/0:0:0:0:0:0:0:1:62002]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62002] [false]
+[/0:0:0:0:0:0:0:1:62006]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62006] [false]
+[/0:0:0:0:0:0:0:1:62002]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62002] [false]
+[/0:0:0:0:0:0:0:1:62006]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62006] [false]
+[/0:0:0:0:0:0:0:1:62002]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62002] [false]
+[/0:0:0:0:0:0:0:1:62006]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62006] [false]
+[/0:0:0:0:0:0:0:1:62002]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62002] [false]
+[/0:0:0:0:0:0:0:1:62006]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62006] [false]
+[/0:0:0:0:0:0:0:1:62002]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62002] [false]
+[/0:0:0:0:0:0:0:1:62006]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62006] [false]
+[/0:0:0:0:0:0:0:1:62002]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62002] [false]
+[/0:0:0:0:0:0:0:1:62006]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62006] [false]
+[/0:0:0:0:0:0:0:1:62002]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62002] [false]
+[/0:0:0:0:0:0:0:1:62006]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62006] [false]
+[/0:0:0:0:0:0:0:1:62002]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62002] [false]
+[/0:0:0:0:0:0:0:1:62006]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62006] [false]
+Server Starting...
+ServerPort:8864
+[/127.0.0.1:62031]Connected
+[/127.0.0.1:62031]dXNlcmxvZxwxH2NhZjEzOTdkODY4ZTA1ZDE2OTNlYWM3ZGMxM2RlZDk0230af38b059e43191820045d702035f7 [userlog](1caf1397d868e05d1693eac7dc13ded94)
+To[/127.0.0.1:62031] [succ]
+[/0:0:0:0:0:0:0:1:62040]Connected
+[/0:0:0:0:0:0:0:1:62040]dXNlcmxvZxwyHzFhYzgwYzFiMTMyNjczMTJmYTU2MmI5YWE0ODZkMzFlf831c3f31bad280c3bf15f88bdddb904 [userlog](21ac80c1b13267312fa562b9aa486d31e)
+To[/0:0:0:0:0:0:0:1:62040] [succ]
+[/0:0:0:0:0:0:0:1:62044]Connected
+[/0:0:0:0:0:0:0:1:62044]dXNlcmxvZxwzHzg5ZDA0MTI3NDk2NTA5YmY0OTg1ZThlYmMxNTMxNTYw00cb58ef4380c75aae0f068b8db2490e [userlog](389d04127496509bf4985e8ebc1531560)
+To[/0:0:0:0:0:0:0:1:62044] [succ]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [ok]
+[/0:0:0:0:0:0:0:1:62040]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:62040] [ok]
+[/127.0.0.1:62031]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/127.0.0.1:62031] [ok]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62040]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62040] [true]
+[/127.0.0.1:62031]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/127.0.0.1:62031] [true]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62046]Connected
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62046]dXNlcnJlZxw0HzNmODRkYTE1M2ZlOWE4YzAxMWM4NzgwMTA0MjI2Mzg4502891552d7d3f0c3670f5dd30f6c563 [userreg](43f84da153fe9a8c011c8780104226388)
+To[/0:0:0:0:0:0:0:1:62046] [succ]
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [ok]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/127.0.0.1:62031] Error:
+java.net.SocketException: Connection reset
+/127.0.0.1:62031 exited
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62040] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:62040 exited
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [false]
+[/0:0:0:0:0:0:0:1:62044]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62044] [false]
+[/0:0:0:0:0:0:0:1:62044] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:62044 exited
+[/0:0:0:0:0:0:0:1:62046]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62046] [false]
+[/0:0:0:0:0:0:0:1:62046] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:62046 exited
+[/0:0:0:0:0:0:0:1:62107]Connected
+[/0:0:0:0:0:0:0:1:62224]Connected
+[/0:0:0:0:0:0:0:1:62225]Connected
+[/0:0:0:0:0:0:0:1:62226]Connected
+[/0:0:0:0:0:0:0:1:62107]dXNlcmxvZxwxH2NhZjEzOTdkODY4ZTA1ZDE2OTNlYWM3ZGMxM2RlZDk0230af38b059e43191820045d702035f7 [userlog](1caf1397d868e05d1693eac7dc13ded94)
+To[/0:0:0:0:0:0:0:1:62107] [succ]
+[/0:0:0:0:0:0:0:1:62225]dXNlcmxvZxwyHzFhYzgwYzFiMTMyNjczMTJmYTU2MmI5YWE0ODZkMzFlf831c3f31bad280c3bf15f88bdddb904 [userlog](21ac80c1b13267312fa562b9aa486d31e)
+To[/0:0:0:0:0:0:0:1:62225] [succ]
+[/0:0:0:0:0:0:0:1:62224]dXNlcmxvZxwzHzg5ZDA0MTI3NDk2NTA5YmY0OTg1ZThlYmMxNTMxNTYw00cb58ef4380c75aae0f068b8db2490e [userlog](389d04127496509bf4985e8ebc1531560)
+To[/0:0:0:0:0:0:0:1:62224] [succ]
+[/0:0:0:0:0:0:0:1:62226]dXNlcmxvZxw0HzNmODRkYTE1M2ZlOWE4YzAxMWM4NzgwMTA0MjI2Mzg47da91b3c0b510848bf6d8aebca35ebb2 [userlog](43f84da153fe9a8c011c8780104226388)
+To[/0:0:0:0:0:0:0:1:62226] [succ]
+[/0:0:0:0:0:0:0:1:62232]Connected
+[/0:0:0:0:0:0:0:1:62232]dXNlcmxvZxw1Hzc2MTM2YzdjNTRlNDUzYmJlMWYyNTg4OTA5ZTJmMGM10722effc8687725d250c36933f1a495f [userlog](576136c7c54e453bbe1f2588909e2f0c5)
+To[/0:0:0:0:0:0:0:1:62232] [fall]
+[/0:0:0:0:0:0:0:1:62232]dXNlcnJlZxw1Hzc2MTM2YzdjNTRlNDUzYmJlMWYyNTg4OTA5ZTJmMGM12b6f5facbb63f0b27041ff95c2146e50 [userreg](576136c7c54e453bbe1f2588909e2f0c5)
+To[/0:0:0:0:0:0:0:1:62232] [succ]
+[/0:0:0:0:0:0:0:1:62225]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:62225] [ok]
+[/0:0:0:0:0:0:0:1:62232]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:62232] [ok]
+[/0:0:0:0:0:0:0:1:62225]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62225] [true]
+[/0:0:0:0:0:0:0:1:62232]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62232] [true]
+[/0:0:0:0:0:0:0:1:62232] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:62232 exited
+[/0:0:0:0:0:0:0:1:62225] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:62225 exited
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [ok]
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [ok]
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [false]
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [false]
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [false]
+[/0:0:0:0:0:0:0:1:62244]Connected
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [false]
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [false]
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62244]dXNlcnJlZxw1Hzc2MTM2YzdjNTRlNDUzYmJlMWYyNTg4OTA5ZTJmMGM12b6f5facbb63f0b27041ff95c2146e50 [userreg](576136c7c54e453bbe1f2588909e2f0c5)
+To[/0:0:0:0:0:0:0:1:62244] [fall]
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [false]
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62244]dXNlcnJlZxw2H2JiZDFhNGZkMjMzYzE0M2RkM2VlOWQwMjE4YWI2MDlkcdca515977225964dec61019761a330e [userreg](6bbd1a4fd233c143dd3ee9d0218ab609d)
+To[/0:0:0:0:0:0:0:1:62244] [succ]
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [false]
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62244]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:62244] [ok]
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [false]
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62244]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62244] [false]
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [false]
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62244]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62244] [false]
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [false]
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62244]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62244] [false]
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [false]
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62244]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62244] [false]
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [false]
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62244]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62244] [false]
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [false]
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62244]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62244] [false]
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [false]
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62244]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62244] [false]
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [false]
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62244]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62244] [false]
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [false]
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62244]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62244] [false]
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [false]
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62244]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62244] [false]
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [false]
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62244]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62244] [false]
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [false]
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62244]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62244] [false]
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [false]
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62244]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62244] [false]
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [false]
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62244]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62244] [false]
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [false]
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62244]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62244] [false]
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [false]
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62244]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62244] [false]
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [false]
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62244]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62244] [false]
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [false]
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62244]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62244] [false]
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [false]
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62244]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62244] [false]
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [false]
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62244]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62244] [false]
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [false]
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62244]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62244] [false]
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [false]
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62244]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62244] [false]
+[/0:0:0:0:0:0:0:1:62244] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:62244 exited
+[/0:0:0:0:0:0:0:1:62224]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62224] [false]
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62224] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:62224 exited
+[/0:0:0:0:0:0:0:1:62226]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62226] [false]
+[/0:0:0:0:0:0:0:1:62226] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:62226 exited
+Server Starting...
+ServerPort:8864
+[/0:0:0:0:0:0:0:1:62324]Connected
+[/0:0:0:0:0:0:0:1:62327]Connected
+[/0:0:0:0:0:0:0:1:62328]Connected
+[/0:0:0:0:0:0:0:1:62329]Connected
+[/0:0:0:0:0:0:0:1:62324]dXNlcmxvZxwxH2NhZjEzOTdkODY4ZTA1ZDE2OTNlYWM3ZGMxM2RlZDk0230af38b059e43191820045d702035f7 [userlog](1caf1397d868e05d1693eac7dc13ded94)
+To[/0:0:0:0:0:0:0:1:62324] [succ]
+[/0:0:0:0:0:0:0:1:62328]dXNlcmxvZxwyHzFhYzgwYzFiMTMyNjczMTJmYTU2MmI5YWE0ODZkMzFlf831c3f31bad280c3bf15f88bdddb904 [userlog](21ac80c1b13267312fa562b9aa486d31e)
+To[/0:0:0:0:0:0:0:1:62328] [succ]
+[/0:0:0:0:0:0:0:1:62329]dXNlcmxvZxwzHzg5ZDA0MTI3NDk2NTA5YmY0OTg1ZThlYmMxNTMxNTYw00cb58ef4380c75aae0f068b8db2490e [userlog](389d04127496509bf4985e8ebc1531560)
+To[/0:0:0:0:0:0:0:1:62329] [succ]
+[/0:0:0:0:0:0:0:1:62327]dXNlcmxvZxw0HzNmODRkYTE1M2ZlOWE4YzAxMWM4NzgwMTA0MjI2Mzg47da91b3c0b510848bf6d8aebca35ebb2 [userlog](43f84da153fe9a8c011c8780104226388)
+To[/0:0:0:0:0:0:0:1:62327] [succ]
+[/0:0:0:0:0:0:0:1:62324]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:62324] [ok]
+[/0:0:0:0:0:0:0:1:62328]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:62328] [ok]
+[/0:0:0:0:0:0:0:1:62324]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62324] [true]
+[/0:0:0:0:0:0:0:1:62328]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62328] [true]
+[/0:0:0:0:0:0:0:1:62327]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:62327] [ok]
+[/0:0:0:0:0:0:0:1:62329]Z29tb2t1X2pvaW5tYXRjaBxOVUxM33c7ea7ca202091050b70573b7b92d5d [gomoku_joinmatch](NULL)
+To[/0:0:0:0:0:0:0:1:62329] [ok]
+[/0:0:0:0:0:0:0:1:62327]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62327] [true]
+[/0:0:0:0:0:0:0:1:62329]Z29tb2t1X2lzbWF0Y2hlZBxOVUxM7687820b3c866d709955b4ab8eab80b1 [gomoku_ismatched](NULL)
+To[/0:0:0:0:0:0:0:1:62329] [true]
+[/0:0:0:0:0:0:0:1:62324] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:62324 exited
+[/0:0:0:0:0:0:0:1:62328] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:62328 exited
+[/0:0:0:0:0:0:0:1:62327] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:62327 exited
+[/0:0:0:0:0:0:0:1:62329] Error:
+java.net.SocketException: Connection reset
+/0:0:0:0:0:0:0:1:62329 exited

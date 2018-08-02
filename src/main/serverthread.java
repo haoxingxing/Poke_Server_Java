@@ -4,6 +4,7 @@ import io.log;
 import io.md5;
 import network.protocol;
 import process.classifier;
+import process.people;
 
 import java.io.*;
 import java.net.Socket;
@@ -26,6 +27,7 @@ class serverthread extends Thread {
     }
 
     public void run() {
+        people t=new people();
         while (!sockettoclient.isClosed()) {
             protocol decoder;
             StringBuilder recvstr = new StringBuilder();
@@ -49,7 +51,7 @@ class serverthread extends Thread {
                     if (!error) {
                         if (!decoder.getCommand().equals("exit")) {
                             log.printf("[" + sockettoclient.getRemoteSocketAddress().toString() + "]" + recvstr + " [" + decoder.getCommand() + "](" + decoder.getAllParameter() + ")");
-                            classifier process = new classifier(decoder);
+                            classifier process = new classifier(decoder,t);
                             send.write(Base64.getEncoder().encodeToString(process.returnback().getBytes(StandardCharsets.UTF_8)));
                             log.printf("To[" + sockettoclient.getRemoteSocketAddress().toString() + "]" + " [" + process.returnback() + "]");
                             send.write("\u0004");
