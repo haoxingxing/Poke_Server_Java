@@ -11,7 +11,7 @@ class user {
 
     static boolean login(String Username, String Password) {
         try {
-            return file.read(Username + "." + "md5").equals(md5.md5_encode(Password));
+            return file.read(Username + "." + "md5").equals(md5.md5_encode(Password + "PokePassword" + Password + "Username" + md5.md5_encode("UsernamePoke" + Username)));
         } catch (IOException e) {
             return false;
         }
@@ -22,7 +22,7 @@ class user {
             return false;
         } else {
             try {
-                file.write(Username + "." + "md5", md5.md5_encode(Password));
+                file.write(Username + "." + "md5", md5.md5_encode(Password + "PokePassword" + Password + "Username" + md5.md5_encode("UsernamePoke" + Username)));
             } catch (IOException e) {
                 return false;
             }

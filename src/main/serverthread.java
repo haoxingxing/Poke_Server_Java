@@ -43,10 +43,9 @@ class serverthread extends Thread {
                         decoder = new protocol(r);
                     } catch (IllegalArgumentException e) {
                         log.printf("Error protocol");
-                        decoder = new protocol("ZXJyZg==");
+                        decoder = new protocol(r);
                         error = true;
                     }
-
                     if (!error) {
                         if (!decoder.getCommand().equals("exit")) {
                             log.printf("[" + sockettoclient.getRemoteSocketAddress().toString() + "]" + recvstr + " [" + decoder.getCommand() + "](" + decoder.getAllParameter() + ")");
@@ -59,7 +58,7 @@ class serverthread extends Thread {
                             sockettoclient.close();
                         }
                     } else {
-                        send.write("\u0004");
+                        send.write("\u0006\u0004");
                         send.flush();
                     }
                 } else {
@@ -68,7 +67,7 @@ class serverthread extends Thread {
                 }
             } catch (StringIndexOutOfBoundsException e) {
                 try {
-                    send.write("\u0004");
+                    send.write("\u0006\u0004");
                     send.flush();
                 } catch (IOException el) {
                     log.printf("[" + sockettoclient.getRemoteSocketAddress().toString() + "]" + " Error:\n" + el.toString());
