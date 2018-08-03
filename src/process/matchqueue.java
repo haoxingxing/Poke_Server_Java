@@ -7,7 +7,8 @@ import java.io.IOException;
 public class matchqueue {
     private String queuename;
     private int queuesize;
-    private int queueid;
+    int queueid;
+    private boolean whichIam;
     matchqueue(String queuename, int size)
     {
          this.queuename=queuename;
@@ -71,9 +72,25 @@ public class matchqueue {
         try {
             queueid = Integer.parseInt(file.read(queuename + "." + queuesize + ".queue.user." + name));
             String[] queue = file.read(queuename + "." + queuesize + ".queue." + queueid).split("\u001f");
+            if (queue[0].equals(name)) {
+                whichIam = true;
+            } else if (queue[1].equals(name)) {
+                whichIam = false;
+            }
             return !queue[1].equals("\u0001") && !queue[0].equals("\u0001");
         } catch (IOException e) {
             return false;
+        }
+    }
+
+    int getQueueid(String name) {
+        while (!file.isexists(queuename + "." + queuesize + ".queue.user." + name)) {
+            this.addtoqueue(name);
+        }
+        try {
+            return queueid = Integer.parseInt(file.read(queuename + "." + queuesize + ".queue.user." + name));
+        } catch (IOException e) {
+            return 0;
         }
     }
     public String getOtherName(String name) {
@@ -94,6 +111,24 @@ public class matchqueue {
             }
         } catch (IOException e) {
             return "";
+        }
+    }
+
+    boolean getwhichIam(String name) {
+        while (!file.isexists(queuename + "." + queuesize + ".queue.user." + name)) {
+            this.addtoqueue(name);
+        }
+        try {
+            queueid = Integer.parseInt(file.read(queuename + "." + queuesize + ".queue.user." + name));
+            String[] queue = file.read(queuename + "." + queuesize + ".queue." + queueid).split("\u001f");
+            if (queue[0].equals(name)) {
+                whichIam = true;
+            } else if (queue[1].equals(name)) {
+                whichIam = false;
+            }
+            return whichIam;
+        } catch (IOException e) {
+            return false;
         }
     }
 }
